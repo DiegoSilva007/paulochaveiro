@@ -1,0 +1,328 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: "Poppins", sans-serif;
+}
+header{
+     display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+#Logo-container{
+    width: 20rem;
+    
+}
+
+#logo img{
+    margin-top: 1rem;
+    margin-left: 2rem;
+    width: 25rem;
+  
+}
+#botão_de_ação{
+    text-decoration: none;
+    border-style: none;
+    width: 200px;
+    height: 60px; 
+    margin-right: 3rem;
+    font-size: 20px;
+    color: rgba(61,69,72,255);
+    background-color: rgba(245,134,52,255);
+    border-radius: 5px;
+    cursor: pointer;
+}
+#botão_de_ação a{
+    text-decoration: none;
+    color: rgba(61,69,72,255);
+}
+#banner{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+.title_banner{
+    color: rgba(61,69,72,255);
+   margin-left: 2rem;
+    font-size: 3vh;
+    
+}
+#second-banner{
+    margin-top: 5rem;
+    background-color: rgba(245,134,52,255);
+    height: 70rem;
+    display: grid;
+    grid-template-rows: 1fr 1fr;
+    grid-template-columns: 1fr 1fr;
+    gap: 5px;
+}
+#Chave_Simples{
+   align-items: center;
+   justify-content: center;
+    color: rgba(61,69,72,255);
+    border: 5px solid; 
+    border-radius: 15px;
+    margin-left: 2rem;
+    margin-top: 3rem;
+    width: 40rem;
+    height: 27rem;
+    font-size: 20px
+}
+
+.fa-key{
+    margin-top: 2rem;
+    margin-left: 17rem;
+    font-size: 5rem;
+    color: rgba(61,69,72,255);
+}
+
+.title-key{
+    margin-left: 10rem;
+}
+p{
+    margin-left: 3rem;
+}
+
+#key_car{
+    align-items: center;
+    justify-content: center;
+     color: rgba(61,69,72,255);
+     border: 5px solid; 
+     border-radius: 15px;
+     margin-left: 2rem;
+     margin-top: 3rem;
+     width: 40rem;
+     height: 27rem;
+     font-size: 20px
+}
+.title-car{
+    margin-left: 7rem;
+}
+.fa-car{
+    margin-top: 2rem;
+    margin-left: 17rem;
+    font-size: 5rem;
+    color: rgba(61,69,72,255);
+}
+#key_tags{
+    align-items: center;
+    justify-content: center;
+     color: rgba(61,69,72,255);
+     border: 5px solid; 
+     border-radius: 15px;
+     margin-left: 2rem;
+     width: 40rem;
+     height: 30rem;
+     font-size: 20px
+}
+.fa-id-card{
+    margin-top: 2rem;
+    margin-left: 17rem;
+    font-size: 5rem;
+    color: rgba(61,69,72,255);
+}
+.title-tags{
+    margin-left: 4rem;
+}
+#key_lock{
+    align-items: center;
+    justify-content: center;
+     color: rgba(61,69,72,255);
+     border: 5px solid; 
+     border-radius: 15px;
+     margin-left: 2rem;
+     width: 40rem;
+     height: 30rem;
+     font-size: 20px
+}
+.fa-lock{
+    margin-top: 2rem;
+    margin-left: 17rem;
+    font-size: 5rem;
+    color: rgba(61,69,72,255);
+}
+.title-lock{
+    margin-left: 4rem;
+}
+.fa-whatsapp{
+    font-size: 2rem;
+    color: rgba(61,69,72,255);
+}
+#icon-banner img{
+    margin-left: 10rem;
+    width: 60vh;
+    
+}
+.title_comp{
+    margin-left: 30rem;
+    font-size: 5vh;
+    color: rgba(61,69,72,255);
+}
+#container-competencias{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    gap: 50px;
+    height: 50px;
+}
+#fast-service{
+    align-items: center;
+    justify-content: center;
+     color: rgba(61,69,72,255);
+     border: 5px solid; 
+     border-radius: 15px;
+     margin-left: 2rem;
+     width: 40rem;
+     height: 30rem;
+     font-size: 20px
+}
+.fa-clock{
+    margin-top: 2rem;
+    margin-left: 17rem;
+    font-size: 5rem;
+    color: rgba(61,69,72,255);
+}
+.rapido_atendimento{
+    margin-left: 4rem;
+}
+#satisfação{
+    align-items: center;
+    justify-content: center;
+     color: rgba(61,69,72,255);
+     border: 5px solid; 
+     border-radius: 15px;
+     margin-left: 2rem;
+     width: 40rem;
+     height: 30rem;
+     font-size: 20px
+}
+.fa-smile{
+    margin-top: 2rem;
+    margin-left: 17rem;
+    font-size: 5rem;
+    color: rgba(61,69,72,255);
+}
+.satisfação_cliente{
+    margin-left: 4rem;
+}
+
+.fa-dollar-sign{
+    margin-top: 2rem;
+    margin-left: 17rem;
+    font-size: 5rem;
+    color: rgba(61,69,72,255);
+}
+
+#tecnology{
+    align-items: center;
+    justify-content: center;
+     color: rgba(61,69,72,255);
+     border: 5px solid; 
+     border-radius: 15px;
+     margin-left: 2rem;
+     width: 40rem;
+     height: 30rem;
+     font-size: 20px
+
+}
+.fa-shield-alt{
+    margin-top: 2rem;
+    margin-left: 17rem;
+    font-size: 5rem;
+    color: rgba(61,69,72,255);
+}
+.title-tecnology{
+    margin-left: 6rem;
+}
+.text_tec{
+    margin-left: 1rem;
+}
+#confiança{
+    align-items: center;
+    justify-content: center;
+     color: rgba(61,69,72,255);
+     border: 5px solid; 
+     border-radius: 15px;
+     margin-left: 2rem;
+     width: 40rem;
+     height: 30rem;
+     font-size: 20px
+}
+.fa-handshake{
+    margin-top: 2rem;
+    margin-left: 17rem;
+    font-size: 5rem;
+    color: rgba(61,69,72,255);
+}
+.amigavel{
+    margin-left: 4rem;
+}
+.cordial_text{
+    margin-left: 1rem;
+}
+.text-fast{
+    margin-left: 1rem;
+}
+.text-satisfaction{
+    margin-left: 1rem;
+}
+#final-action{
+    align-items: center;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin-top: 50%;
+    font-size: 3vh;
+    height: 55rem;
+    margin-left: 2rem;
+    color: rgba(61,69,72,255);
+}
+#final_button{
+    margin-left: 7rem;
+    width: 30rem;
+    height: 10rem;
+    text-decoration: none;
+    color: rgba(245,134,52,255);
+    border: 5px solid;
+    background-color: white;
+    border-radius: 5px;
+    cursor: pointer;
+}
+#final_button:hover{
+    background-color: rgba(245,134,52,255);
+    transition: 0.3s;
+}
+#final_button a{
+    text-decoration: none;
+    color: rgba(61,69,72,255);
+    font-size: 5vh;
+    font-weight: bolder;
+}
+
+/* Estilo geral do footer */
+footer {
+    background-color: rgba(61,69,72,255);
+    padding: 20px 0;
+    color: #fefefe;
+    font-family: Arial, sans-serif;
+}
+
+/* Container do footer */
+.footer-container {
+    align-items: center;
+}
+.direitos{
+    color: #fefefe;
+}
+
+
+
+
+
+
+/* Rodapé inferior com direitos autorais */
+.footer-bottom {
+    margin-top: 20px;
+    text-align: center;
+  background-color: rgba(61,69,72,255);
+}
+
+/* Adicione mais estilos conforme necessário */

@@ -1,0 +1,1981 @@
+@media(min-width:300px) and (max-width: 699px){
+    header{
+       
+        width: 60rem;
+    }
+    #logo img{
+        width: 35rem;
+      
+    }
+    .fa-whatsapp{
+        font-size: 7vh;
+    }
+    #botão_de_ação{
+        width: 47vh;
+        height: 15vh;
+    }
+    #botão_de_ação a{
+        font-size: 5vh;
+    }
+    #banner{
+        grid-template-columns: 1fr;
+        width: 60rem;
+        height: 210vh;
+
+    }
+    .title_banner{
+        font-size: 40px;
+    }
+    #icon-banner img{
+        width: 50vh;
+    }
+    #second-banner{
+        display: inline-block;
+        width: 60rem;
+        height: 300rem;
+    }
+    #Chave_Simples{
+        margin-top: 85px;
+        margin-left: 2rem;
+        font-size: 40px;
+        height: 60rem;
+        width: 55rem;
+    }
+    .title-key{
+        margin-left: 3rem;
+    }
+    .fa-key{
+        font-size: 7rem;
+    }
+    #key_car{
+        margin-top: 85px;
+        margin-left: 2rem;
+        font-size: 40px;
+        height: 70rem;
+        width: 55rem;
+    }
+    .title-car{
+        margin-left: 3rem;
+    }
+    .fa-car{
+        font-size: 7rem;
+    }
+    #key_tags{
+        margin-top: 85px;
+        margin-left: 2rem;
+        font-size: 40px;
+        height: 70rem;
+        width: 55rem;
+    }
+    .title-tags{
+        margin-left: 3rem;
+    }
+    .fa-id-card{
+        font-size: 7rem;
+    }
+    #key_lock{
+        margin-top: 85px;
+        margin-left: 2rem;
+        font-size: 40px;
+        height: 70rem;
+        width: 55rem;
+    }
+    .fa-lock{
+        font-size: 7rem;
+    }
+    .title-lock{
+        margin-left: 3rem;
+    }
+    .title_comp{
+        margin-top: 20%;
+        width: 50rem; 
+        margin-left: 9rem;
+        font-size: 10vh;
+
+    }
+    #container-competencias{
+        grid-template-columns: 1fr;
+        margin-top: 10%;
+        margin-left: 1rem;
+    }
+    #fast-service{
+        margin-top: 60px;
+        font-size: 40px;
+        height: 60rem;
+        width: 53rem;
+    }
+    .rapido_atendimento{
+        margin-left: 2rem;
+    }
+    .fa-clock{
+        font-size: 7rem;
+    }
+    
+    #satisfação{
+        margin-top: 60px;
+        font-size: 40px;
+        height: 65rem;
+        width: 53rem;
+    }
+    .fa-smile{
+        font-size: 7rem;
+    }
+    .satisfação_cliente{
+        margin-left: 2rem;
+    }
+    
+    #tecnology{
+        margin-top: 60px;
+        font-size: 40px;
+        height: 70rem;
+        width: 53rem;
+    
+    }
+    .fa-shield-alt{
+        font-size: 7rem;
+    }
+    .title-tecnology{
+        margin-left: 2rem;
+    }
+    .text_tec{
+      
+    }
+    #confiança{
+        margin-top: 60px;
+        font-size: 40px;
+        height: 67rem;
+        width: 53rem;
+    }
+    .fa-handshake{
+        font-size: 7rem;
+    }
+    .amigavel{
+        margin-left: 2rem;
+    }
+    .cordial_text{
+        
+    }
+    .text-fast{
+       
+    }
+    .text-satisfaction{
+       
+    }
+    #final-action{
+       margin-top: 290rem;
+       grid-template-columns: 1fr;
+       width: 55rem;
+       font-size: 40px;
+       height: 80rem;
+       
+    }
+    #final_button{
+        width: 40rem;
+        
+    }
+    #final_button:hover{
+        transition: none;
+    }
+    #final_button a{
+        font-size: 3rem;
+       
+    }
+    
+    /* Estilo geral do footer */
+    footer {
+        margin-top: 5rem;
+        width: 60rem;
+    }
+    
+    /* Container do footer */
+    .footer-container {
+      
+    }
+    .direitos{
+        font-size: 4vh;
+    }
+}
+
+@media (width:600px){
+    header{
+       
+        width: 500rem;
+    }
+    #logo img{
+        width: 35rem;
+      
+    }
+    .fa-whatsapp{
+        font-size: 6vh;
+    }
+    #botão_de_ação{
+        width: 36vh;
+        height: 10vh;
+        
+    }
+    #botão_de_ação a{
+        font-size: 4vh;
+    }
+    #second-banner{
+        display: inline-block;
+        width: 170%;
+        height: 300rem;
+       padding-left: 2rem;
+    }
+    #container-competencias{
+        grid-template-columns: 1fr;
+        margin-top: 10%;
+        margin-left: 2rem;
+    }
+    /* Estilo geral do footer */
+    footer {
+        margin-top: 5rem;
+        width: 175%;
+    }
+    
+    /* Container do footer */
+    .footer-container {
+      
+    }
+    .direitos{
+        font-size: 4vh;
+    }
+}
+@media (width:400px){
+    header{
+       
+        width: 63rem;
+    }
+    #logo img{
+        width: 35rem;
+      
+    }
+    .fa-whatsapp{
+        font-size: 6vh;
+    }
+    #botão_de_ação{
+        width: 36vh;
+        height: 10vh;
+        
+    }
+    #botão_de_ação a{
+        font-size: 4vh;
+    }
+    #second-banner{
+        display: inline-block;
+        width: 235%;
+        height: 300rem;
+       padding-left: 2rem;
+    }
+    #container-competencias{
+        grid-template-columns: 1fr;
+        margin-top: 10%;
+        margin-left: 2rem;
+    }
+    /* Estilo geral do footer */
+    footer {
+        margin-top: 5rem;
+        width: 240%;
+    }
+    
+    /* Container do footer */
+    .footer-container {
+      
+    }
+    .direitos{
+        font-size: 4vh;
+    }
+}
+@media (width:390px){
+    header{
+       
+        width: 63rem;
+    }
+    #logo img{
+        width: 35rem;
+      
+    }
+    .fa-whatsapp{
+        font-size: 6vh;
+    }
+    #botão_de_ação{
+        width: 36vh;
+        height: 10vh;
+        
+    }
+    #botão_de_ação a{
+        font-size: 4vh;
+    }
+    #second-banner{
+        display: inline-block;
+        width: 250%;
+        height: 300rem;
+       padding-left: 2rem;
+    }
+    #container-competencias{
+        grid-template-columns: 1fr;
+        margin-top: 10%;
+        margin-left: 2rem;
+    }
+    .title_comp{
+        margin-top: 20%;
+        width: 50rem; 
+        margin-left: 6rem;
+        font-size: 10vh;
+
+    }
+    /* Estilo geral do footer */
+    footer {
+        margin-top: 5rem;
+        width: 260%;
+    }
+    
+    /* Container do footer */
+    .footer-container {
+      
+    }
+    .direitos{
+        font-size: 4vh;
+    }
+}
+@media (width:360px) {
+    header{
+       
+        width: 63rem;
+    }
+    #logo img{
+        width: 35rem;
+      
+    }
+    .fa-whatsapp{
+        font-size: 6vh;
+    }
+    #botão_de_ação{
+        width: 36vh;
+        height: 10vh;
+        
+    }
+    #botão_de_ação a{
+        font-size: 4vh;
+    }
+    #second-banner{
+        display: inline-block;
+        width: 270%;
+        height: 300rem;
+       padding-left: 2rem;
+    }
+    #container-competencias{
+        grid-template-columns: 1fr;
+        margin-top: 10%;
+        margin-left: 2rem;
+    }
+    .title_comp{
+        margin-top: 20%;
+        width: 50rem; 
+        margin-left: 6rem;
+        font-size: 10vh;
+
+    }
+    /* Estilo geral do footer */
+    footer {
+        margin-top: 5rem;
+        width: 277%;
+    }
+    
+    /* Container do footer */
+    .footer-container {
+      
+    }
+    .direitos{
+        font-size: 4vh;
+    }
+}
+@media (min-width:340px) {
+    header{
+       
+        width: 63rem;
+    }
+    #logo img{
+        width: 35rem;
+      
+    }
+    .fa-whatsapp{
+        font-size: 6vh;
+    }
+    #botão_de_ação{
+        width: 36vh;
+        height: 10vh;
+        
+    }
+    #botão_de_ação a{
+        font-size: 4vh;
+    }
+    #second-banner{
+        display: inline-block;
+        width: 280%;
+        height: 300rem;
+       padding-left: 2rem;
+    }
+    #container-competencias{
+        grid-template-columns: 1fr;
+        margin-top: 10%;
+        margin-left: 2rem;
+    }
+    .title_comp{
+        margin-top: 20%;
+        width: 50rem; 
+        margin-left: 6rem;
+        font-size: 10vh;
+
+    }
+    /* Estilo geral do footer */
+    footer {
+        margin-top: 5rem;
+        width: 288%;
+    }
+    
+    /* Container do footer */
+    .footer-container {
+      
+    }
+    .direitos{
+        font-size: 4vh;
+    }
+}
+@media (min-width:700px) and (max-width:799px) {
+    header{
+        width: 190rem;
+    }
+    #logo img{
+        width: 90rem;
+      
+    }
+    .fa-whatsapp{
+        font-size: 12vh;
+    }
+    #botão_de_ação{
+        width: 85vh;
+        height: 20vh;
+    }
+    #botão_de_ação a{
+        font-size: 9vh;
+    }
+    #banner{
+        grid-template-columns: 1fr;
+        width: 190rem;
+        height: 300vh;
+        
+    }
+    .title_banner{
+        font-size: 90px;
+    }
+    #icon-banner img{
+        width: 90vh;
+    }
+    #second-banner{
+        display: inline-block;
+        width: 190rem;
+        height: 600rem;
+        
+    }
+    #Chave_Simples{
+        margin-top: 85px;
+        margin-left: 20rem;
+        font-size: 90px;
+        padding-left:3rem;
+        height: 130rem;
+        width: 130rem;
+    }
+    .title-key{
+        margin-left: 3rem;
+    }
+    .fa-key{
+        padding-left: 20rem;
+        margin-top: 5rem;
+        font-size: 15rem;
+    }
+    #key_car{
+        margin-top: 85px;
+        margin-left: 20rem;
+        font-size: 90px;
+        padding-left:3rem;
+        height: 130rem;
+        width: 130rem;;
+    }
+    .title-car{
+        margin-left: 3rem;
+    }
+    .fa-car{
+        font-size: 15rem;
+        padding-left: 20rem;
+        margin-top: 5rem;
+    }
+    #key_tags{
+        margin-top: 85px;
+        margin-left: 20rem;
+        font-size: 90px;
+        padding-left:3rem;
+        height: 150rem;
+        width: 130rem;
+    }
+    .title-tags{
+        margin-left: 3rem;
+    }
+    .fa-id-card{
+        font-size: 15rem;
+        padding-left: 20rem;
+        margin-top: 5rem;
+    }
+    #key_lock{
+        margin-top: 85px;
+        margin-left: 20rem;
+        font-size: 90px;
+        padding-left:3rem;
+        height: 150rem;
+        width: 130rem;
+    }
+    .fa-lock{
+        padding-left: 20rem;
+        margin-top: 5rem;
+        font-size: 15rem;
+    }
+    .title-lock{
+        margin-left: 3rem;
+    }
+    .title_comp{
+        margin-top: 20%;
+        width: 80rem; 
+        margin-left: 50rem;
+        font-size: 15vh;
+       
+
+    }
+    #container-competencias{
+        grid-template-columns: 1fr;
+        margin-top: 10%;
+        margin-left: 1rem;
+        width: 190rem;
+    }
+    #fast-service{
+        margin-top: 85px;
+        margin-left: 20rem;
+        font-size: 90px;
+        padding-left:3rem;
+        height: 150rem;
+        width: 130rem;
+        
+    }
+    .rapido_atendimento{
+        margin-left: 2rem;
+    }
+    .fa-clock{
+        font-size: 15rem;
+        padding-left: 20rem;
+        margin-top: 5rem;
+        
+    }
+    
+    #satisfação{
+        margin-top: 85px;
+        margin-left: 20rem;
+        font-size: 90px;
+        padding-left:3rem;
+        height: 150rem;
+        width: 130rem;
+    }
+    .fa-smile{
+        font-size: 15rem;
+        padding-left: 20rem;
+        margin-top: 5rem;
+    }
+    .satisfação_cliente{
+        margin-left: 2rem;
+        
+        margin-top: 5rem;
+    }
+    
+    #tecnology{
+        margin-top: 85px;
+        margin-left: 20rem;
+        font-size: 90px;
+        padding-left:3rem;
+        height: 150rem;
+        width: 130rem;
+    
+    }
+    .fa-shield-alt{
+        font-size: 15rem;
+        padding-left: 20rem;
+        margin-top: 5rem;
+    }
+    .title-tecnology{
+        margin-left: 2rem;
+    }
+    .text_tec{
+      
+    }
+    #confiança{
+        margin-top: 85px;
+        margin-left: 20rem;
+        font-size: 90px;
+        padding-left:3rem;
+        height: 150rem;
+        width: 130rem;
+    
+    }
+    .fa-handshake{
+        font-size: 15rem;
+        padding-left: 20rem;
+        margin-top: 5rem;
+    }
+    .amigavel{
+        margin-left: 2rem;
+    }
+    .cordial_text{
+        
+    }
+    .text-fast{
+       
+    }
+    .text-satisfaction{
+       
+    }
+    #final-action{
+       margin-top: 120em;
+       grid-template-columns: 1fr;
+       width: 185rem;
+       font-size: 90px;
+       height: 130rem;
+      
+    }
+    #final_button{
+        width: 120rem;
+        height: 20rem;
+        border: 15px solid;
+    }
+    #final_button:hover{
+        transition: none;
+    }
+    #final_button a{
+        font-size: 6rem;
+       
+    }
+    
+    /* Estilo geral do footer */
+    footer {
+        margin-top: 20rem;
+        width: 190rem;
+    }
+    
+    /* Container do footer */
+    .footer-container {
+      
+    }
+    .direitos{
+        font-size: 7vh;
+    }
+}
+@media(min-width: 800px) and (max-width:1023px){
+   
+    header{
+        width: 56rem;
+       
+    }
+    #logo img{
+        width: 30rem;
+      
+    }
+    .fa-whatsapp{
+        font-size: 4vh;
+    }
+    #botão_de_ação{
+        width: 21rem;
+        height: 5rem;
+       
+       
+    }
+    #botão_de_ação a{
+        font-size: 3vh;
+    }
+    #banner{
+        grid-template-columns: 1fr;
+        width: 55rem;
+        height: 100vh;
+        
+        
+    }
+    .title_banner{
+        font-size: 30px;
+        
+    }
+    #icon-banner img{
+       
+        width: 20vh;
+    }
+    #second-banner{
+        display: inline-block;
+        width: 56rem;
+        height: 330rem;
+        
+    }
+    #Chave_Simples{
+        margin-top: 85px;
+        margin-left: 1rem;
+        font-size: 37px;
+        padding-left: 1rem;
+        height: 67rem;
+        width: 51rem;
+    }
+    .title-key{
+        margin-left: 3rem;
+    }
+    .fa-key{
+        padding-left: 1rem;
+        margin-top: 5rem;
+        font-size: 7rem;
+    }
+    #key_car{
+        margin-top: 85px;
+        margin-left: 1rem;
+        font-size: 37px;
+        padding-left: 1rem;
+        height: 80rem;
+        width: 51rem;
+    }
+    .title-car{
+        margin-left: 3rem;
+    }
+    .fa-car{
+        padding-left: 1rem;
+        margin-top: 5rem;
+        font-size: 7rem;
+    }
+    #key_tags{
+        margin-top: 85px;
+        margin-left: 1rem;
+        font-size: 37px;
+        padding-left: 1rem;
+        height: 67rem;
+        width: 51rem;
+    }
+    .title-tags{
+        margin-left: 3rem;
+    }
+    .fa-id-card{
+        padding-left: 1rem;
+        margin-top: 5rem;
+        font-size: 7rem;
+    }
+    #key_lock{
+        margin-top: 85px;
+        margin-left: 1rem;
+        font-size: 37px;
+        padding-left: 1rem;
+        height: 80rem;
+        width: 51rem;
+    }
+    .fa-lock{
+        padding-left: 1rem;
+        margin-top: 5rem;
+        font-size: 7rem;
+    }
+    .title-lock{
+        margin-left: 3rem;
+    }
+    .title_comp{
+        margin-top: 10%;
+        width: 50rem; 
+        font-size: 5vh;
+       margin-left: 5rem;
+
+    }
+    #container-competencias{
+        grid-template-columns: 1fr;
+        margin-left: 1rem;
+        width: 53rem;
+       
+    }
+    #fast-service{
+        
+        margin-top: 85px;
+        margin-left: 1rem;
+        font-size: 37px;
+        padding-left: 1rem;
+        height: 67rem;
+        width: 51rem;
+        
+    }
+    .rapido_atendimento{
+        margin-left: 2rem;
+    }
+    .fa-clock{
+        padding-left: 1rem;
+        margin-top: 5rem;
+        font-size: 7rem;
+        
+    }
+    
+    #satisfação{
+        margin-top: 85px;
+        margin-left: 1rem;
+        font-size: 37px;
+        padding-left: 1rem;
+        height: 67rem;
+        width: 51rem;
+    }
+    .fa-smile{
+        padding-left: 1rem;
+        margin-top: 5rem;
+        font-size: 7rem;
+    }
+    .satisfação_cliente{
+        margin-left: 2rem;
+        
+        margin-top: 5rem;
+    }
+    
+    #tecnology{
+        margin-top: 85px;
+        margin-left: 1rem;
+        font-size: 37px;
+        padding-left: 1rem;
+        height: 67rem;
+        width: 51rem;
+    
+    }
+    .fa-shield-alt{
+        padding-left: 1rem;
+        margin-top: 5rem;
+        font-size: 7rem;
+    }
+    .title-tecnology{
+        margin-left: 1rem;
+    }
+    .text_tec{
+      
+    }
+    #confiança{
+        margin-top: 85px;
+        margin-left: 1rem;
+        font-size: 37px;
+        padding-left: 1rem;
+        height: 67rem;
+        width: 51rem;
+    
+    
+    }
+    .fa-handshake{
+        padding-left: 1rem;
+        margin-top: 5rem;
+        font-size: 7rem;
+    }
+    .amigavel{
+        margin-left: 2rem;
+    }
+    .cordial_text{
+        
+    }
+    .text-fast{
+       
+    }
+    .text-satisfaction{
+       
+    }
+    #final-action{
+       margin-top: 300rem;
+       grid-template-columns: 1fr;
+       width: 53rem;
+       font-size: 40px;
+      height: 90rem;
+    }
+    
+    #final_button{
+        width: 35rem;
+        height: 10rem;
+        border: 5px solid;
+    }
+    #final_button:hover{
+        transition: none;
+    }
+    #final_button a{
+        font-size: 3rem;
+       
+    }
+    
+    /* Estilo geral do footer */
+    footer {
+        margin-top: 2rem;
+        width: 55rem;
+    }
+    
+    /* Container do footer */
+    .footer-container {
+      
+    }
+    .direitos{
+        font-size: 3vh;
+    }
+
+}
+@media(min-width:853px){
+    #botão_de_ação{
+        width: 21rem;
+        height: 5rem;
+      
+       
+    }
+    #botão_de_ação a{
+        font-size: 2vh;
+    }
+    .fa-whatsapp{
+        font-size: 3vh;
+    }
+   
+}
+@media(min-width: 1024px) and (max-width: 1270px)  {
+    header{
+        width: 69rem;
+       
+    }
+    #logo img{
+        width: 35rem;
+      
+    }
+    .fa-whatsapp{
+        font-size: 4vh;
+    }
+    #botão_de_ação{
+        width: 25rem;
+        height: 6rem;
+       
+       
+    }
+    #botão_de_ação a{
+        font-size: 3vh;
+    }
+    #banner{
+        grid-template-columns: 1fr;
+        width: 55rem;
+        height: 100vh;
+        
+        
+    }
+    .title_banner{
+        font-size: 37px;
+        
+    }
+    #icon-banner img{
+       
+        width: 20vh;
+    }
+    #second-banner{
+        display: inline-block;
+        width: 70rem;
+        height: 330rem;
+        
+    }
+    #Chave_Simples{
+        margin-top: 85px;
+        margin-left: 8rem;
+        font-size: 40px;
+        
+        height: 67rem;
+        width: 51rem;
+    }
+    .title-key{
+        margin-left: 3rem;
+    }
+    .fa-key{
+        padding-left: 1rem;
+        margin-top: 5rem;
+        font-size: 7rem;
+    }
+    #key_car{
+        margin-top: 85px;
+        margin-left: 8rem;
+        font-size: 40px;
+        height: 80rem;
+        width: 51rem;
+    }
+    .title-car{
+        margin-left: 3rem;
+    }
+    .fa-car{
+        padding-left: 1rem;
+        margin-top: 5rem;
+        font-size: 7rem;
+    }
+    #key_tags{
+        margin-top: 85px;
+        margin-left: 8rem;
+        font-size: 40px;
+        height: 70rem;
+        width: 51rem;
+    }
+    .title-tags{
+        margin-left: 3rem;
+    }
+    .fa-id-card{
+        padding-left: 1rem;
+        margin-top: 5rem;
+        font-size: 7rem;
+    }
+    #key_lock{
+        margin-top: 85px;
+        margin-left: 8rem;
+        font-size: 40px;
+        height: 80rem;
+        width: 51rem;
+    }
+    .fa-lock{
+        padding-left: 1rem;
+        margin-top: 5rem;
+        font-size: 7rem;
+    }
+    .title-lock{
+        margin-left: 3rem;
+    }
+    .title_comp{
+        margin-top: 10%;
+        width: 50rem; 
+        font-size: 5vh;
+       margin-left: 12rem;
+
+    }
+    #container-competencias{
+        grid-template-columns: 1fr;
+        margin-left: 1rem;
+        width: 53rem;
+       
+    }
+    #fast-service{
+        
+        margin-top: 85px;
+        margin-left: 8rem;
+        font-size: 40px;
+        padding-left: 1rem;
+        height: 67rem;
+        width: 51rem;
+        
+    }
+    .rapido_atendimento{
+        margin-left: 2rem;
+    }
+    .fa-clock{
+        padding-left: 1rem;
+        margin-top: 5rem;
+        font-size: 7rem;
+        
+    }
+    
+    #satisfação{
+        margin-top: 85px;
+        margin-left: 8rem;
+        font-size: 40px;
+        padding-left: 1rem;
+        height: 67rem;
+        width: 51rem;
+    }
+    .fa-smile{
+        padding-left: 1rem;
+        margin-top: 5rem;
+        font-size: 7rem;
+    }
+    .satisfação_cliente{
+        margin-left: 2rem;
+        
+        margin-top: 5rem;
+    }
+    
+    #tecnology{
+        margin-top: 85px;
+        margin-left: 8rem;
+        font-size: 40px;
+        padding-left: 1rem;
+        height: 70rem;
+        width: 51rem;
+    
+    }
+    .fa-shield-alt{
+        padding-left: 1rem;
+        margin-top: 5rem;
+        font-size: 7rem;
+    }
+    .title-tecnology{
+        margin-left: 1rem;
+    }
+    .text_tec{
+      
+    }
+    #confiança{
+        margin-top: 85px;
+        margin-left: 8rem;
+        font-size: 40px;
+        padding-left: 1rem;
+        height: 75rem;
+        width: 51rem;
+    
+    
+    }
+    .fa-handshake{
+        padding-left: 1rem;
+        margin-top: 5rem;
+        font-size: 7rem;
+    }
+    .amigavel{
+        margin-left: 2rem;
+    }
+    .cordial_text{
+        
+    }
+    .text-fast{
+       
+    }
+    .text-satisfaction{
+       
+    }
+    #final-action{
+       margin-top: 320rem;
+       grid-template-columns: 1fr;
+       width: 53rem;
+       font-size: 40px;
+      height: 90rem;
+    }
+    
+    #final_button{
+        width: 35rem;
+        height: 10rem;
+        border: 5px solid;
+    }
+    #final_button:hover{
+        transition: none;
+    }
+    #final_button a{
+        font-size: 3rem;
+       
+    }
+    
+    /* Estilo geral do footer */
+    footer {
+        margin-top: 2rem;
+        width: 70rem;
+    }
+    
+    /* Container do footer */
+    .footer-container {
+      
+    }
+    .direitos{
+        font-size: 3vh;
+    }
+
+}
+@media(min-height:600px) and (max-height: 799px) {
+    header{
+        width: 69rem;
+       
+    }
+    #logo img{
+        width: 35rem;
+      
+    }
+    .fa-whatsapp{
+        font-size: 8vh;
+    }
+    #botão_de_ação{
+        width: 25rem;
+        height: 6rem;
+       
+       
+    }
+    #botão_de_ação a{
+        font-size: 6vh;
+    }
+    #banner{
+        grid-template-columns: 1fr;
+        width: 55rem;
+        height: 250vh;
+        
+        
+    }
+    .title_banner{
+        font-size: 37px;
+        
+    }
+    #icon-banner img{
+       
+        width: 52vh;
+    }
+    #second-banner{
+        display: inline-block;
+        width: 70rem;
+        height: 330rem;
+        
+    }
+    #Chave_Simples{
+        margin-top: 85px;
+        margin-left: 8rem;
+        font-size: 40px;
+        
+        height: 67rem;
+        width: 51rem;
+    }
+    .title-key{
+        margin-left: 3rem;
+    }
+    .fa-key{
+        padding-left: 1rem;
+        margin-top: 5rem;
+        font-size: 7rem;
+    }
+    #key_car{
+        margin-top: 85px;
+        margin-left: 8rem;
+        font-size: 40px;
+        height: 80rem;
+        width: 51rem;
+    }
+    .title-car{
+        margin-left: 3rem;
+    }
+    .fa-car{
+        padding-left: 1rem;
+        margin-top: 5rem;
+        font-size: 7rem;
+    }
+    #key_tags{
+        margin-top: 85px;
+        margin-left: 8rem;
+        font-size: 40px;
+        height: 70rem;
+        width: 51rem;
+    }
+    .title-tags{
+        margin-left: 3rem;
+    }
+    .fa-id-card{
+        padding-left: 1rem;
+        margin-top: 5rem;
+        font-size: 7rem;
+    }
+    #key_lock{
+        margin-top: 85px;
+        margin-left: 8rem;
+        font-size: 40px;
+        height: 80rem;
+        width: 51rem;
+    }
+    .fa-lock{
+        padding-left: 1rem;
+        margin-top: 5rem;
+        font-size: 7rem;
+    }
+    .title-lock{
+        margin-left: 3rem;
+    }
+    .title_comp{
+        margin-top: 10%;
+        width: 50rem; 
+        font-size: 10vh;
+       margin-left: 12rem;
+
+    }
+    #container-competencias{
+        grid-template-columns: 1fr;
+        margin-left: 1rem;
+        width: 53rem;
+       
+    }
+    #fast-service{
+        
+        margin-top: 85px;
+        margin-left: 8rem;
+        font-size: 40px;
+        padding-left: 1rem;
+        height: 67rem;
+        width: 51rem;
+        
+    }
+    .rapido_atendimento{
+        margin-left: 2rem;
+    }
+    .fa-clock{
+        padding-left: 1rem;
+        margin-top: 5rem;
+        font-size: 7rem;
+        
+    }
+    
+    #satisfação{
+        margin-top: 85px;
+        margin-left: 8rem;
+        font-size: 40px;
+        padding-left: 1rem;
+        height: 67rem;
+        width: 51rem;
+    }
+    .fa-smile{
+        padding-left: 1rem;
+        margin-top: 5rem;
+        font-size: 7rem;
+    }
+    .satisfação_cliente{
+        margin-left: 2rem;
+        
+        margin-top: 5rem;
+    }
+    
+    #tecnology{
+        margin-top: 85px;
+        margin-left: 8rem;
+        font-size: 40px;
+        padding-left: 1rem;
+        height: 70rem;
+        width: 51rem;
+    
+    }
+    .fa-shield-alt{
+        padding-left: 1rem;
+        margin-top: 5rem;
+        font-size: 7rem;
+    }
+    .title-tecnology{
+        margin-left: 1rem;
+    }
+    .text_tec{
+      
+    }
+    #confiança{
+        margin-top: 85px;
+        margin-left: 8rem;
+        font-size: 40px;
+        padding-left: 1rem;
+        height: 75rem;
+        width: 51rem;
+    
+    
+    }
+    .fa-handshake{
+        padding-left: 1rem;
+        margin-top: 5rem;
+        font-size: 7rem;
+    }
+    .amigavel{
+        margin-left: 2rem;
+    }
+    .cordial_text{
+        
+    }
+    .text-fast{
+       
+    }
+    .text-satisfaction{
+       
+    }
+    #final-action{
+       margin-top: 320rem;
+       grid-template-columns: 1fr;
+       width: 53rem;
+       font-size: 40px;
+      height: 90rem;
+    }
+    
+    #final_button{
+        width: 35rem;
+        height: 10rem;
+        border: 5px solid;
+    }
+    #final_button:hover{
+        transition: none;
+    }
+    #final_button a{
+        font-size: 3rem;
+       
+    }
+    
+    /* Estilo geral do footer */
+    footer {
+        margin-top: 2rem;
+        width: 70rem;
+    }
+    
+    /* Container do footer */
+    .footer-container {
+      
+    }
+    .direitos{
+        font-size: 3vh;
+    }
+
+}
+@media(min-width: 1271px) and (max-width: 1300px) {
+    header{
+        width: 120rem;
+    }
+    #logo img{
+        width: 45rem;
+      
+    }
+    .fa-whatsapp{
+        font-size: 7vh;
+    }
+    #botão_de_ação{
+        width: 30rem;
+        height: 6rem;
+       
+       
+    }
+    #botão_de_ação a{
+        font-size: 5vh;
+    }
+    #banner{
+        grid-template-columns: 1fr 1fr;
+        width: 55rem;
+        height: 90vh;
+       
+    }
+    .title_banner{
+        font-size: 40px;
+        width: 80rem;
+    }
+    #icon-banner img{
+      
+        width: 57vh;
+        margin-left: 7rem;
+        margin-top: 10rem;
+    }
+    #second-banner{
+        display: grid;
+        width: 120rem;
+        height: 160rem;
+        gap: 2rem;
+        
+    }
+    #Chave_Simples{
+        margin-top: 85px;
+        margin-left: 2rem;
+        font-size: 38px;
+        
+        height: 67rem;
+        width: 52rem;
+    }
+    .title-key{
+        margin-left: 3rem;
+    }
+    .fa-key{
+        padding-left: 1rem;
+        margin-top: 5rem;
+        font-size: 7rem;
+    }
+    #key_car{
+        margin-top: 85px;
+        font-size: 38px;
+        height: 67rem;
+        width: 52rem;
+    }
+    .title-car{
+        margin-left: 3rem;
+    }
+    .fa-car{
+        padding-left: 1rem;
+        margin-top: 5rem;
+        font-size: 7rem;
+    }
+    #key_tags{
+       
+        margin-left: 2rem;
+        font-size: 38px;
+        height: 70rem;
+        width: 52rem;
+    }
+    .title-tags{
+        margin-left: 3rem;
+    }
+    .fa-id-card{
+        padding-left: 1rem;
+        margin-top: 5rem;
+        font-size: 7rem;
+    }
+    #key_lock{
+        font-size: 38px;
+        height: 70rem;
+        width: 52rem;
+    }
+    .fa-lock{
+        padding-left: 1rem;
+        margin-top: 5rem;
+        font-size: 7rem;
+    }
+    .title-lock{
+        margin-left: 3rem;
+    }
+    .title_comp{
+        margin-top: 10%;
+        width: 50rem; 
+        font-size: 10vh;
+       margin-left: 35rem;
+
+    }
+    #container-competencias{
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        width: 120rem;
+        height: 160rem;
+        gap: 2rem;
+       margin-top: 2rem;
+    }
+    #fast-service{
+        
+        margin-top: 85px;
+        margin-left: 2rem;
+        font-size: 40px;
+        padding-left: 1rem;
+        height: 67rem;
+        width: 51rem;
+        
+    }
+    .rapido_atendimento{
+        margin-left: 2rem;
+    }
+    .fa-clock{
+        padding-left: 1rem;
+        margin-top: 5rem;
+        font-size: 7rem;
+        
+    }
+    
+    #satisfação{
+        margin-top: 85px;
+        font-size: 40px;
+        padding-left: 1rem;
+        height: 67rem;
+        width: 51rem;
+    }
+    .fa-smile{
+        padding-left: 1rem;
+        margin-top: 5rem;
+        font-size: 7rem;
+    }
+    .satisfação_cliente{
+        margin-left: 2rem;
+    }
+    
+    #tecnology{
+        margin-top: 85px;
+        margin-left: 2rem;
+        font-size: 40px;
+        padding-left: 1rem;
+        height: 75rem;
+        width: 51rem;
+    
+    }
+    .fa-shield-alt{
+        padding-left: 1rem;
+        margin-top: 5rem;
+        font-size: 7rem;
+    }
+    .title-tecnology{
+        margin-left: 1rem;
+    }
+    .text_tec{
+      
+    }
+    #confiança{
+        margin-top: 85px;
+        font-size: 40px;
+        padding-left: 1rem;
+        height: 75rem;
+        width: 51rem;
+    
+    
+    }
+    .fa-handshake{
+        padding-left: 1rem;
+        margin-top: 5rem;
+        font-size: 7rem;
+    }
+    .amigavel{
+        margin-left: 2rem;
+    }
+    .cordial_text{
+        
+    }
+    .text-fast{
+       
+    }
+    .text-satisfaction{
+       
+    }
+    #final-action{
+       margin-top: 3rem;
+       grid-template-columns: 1fr 1fr;
+       width: 120rem;
+       font-size: 46px;
+      height: 90rem;
+    }
+    
+    #final_button{
+        width: 45rem;
+        height: 20rem;
+        border: 5px solid;
+        margin-left: 10rem;
+    }
+    #final_button:hover{
+        transition: none;
+    }
+    #final_button a{
+        font-size: 4rem;
+       
+    }
+    
+    /* Estilo geral do footer */
+    footer {
+        width: 120rem;
+    }
+    
+    /* Container do footer */
+    .footer-container {
+      
+    }
+
+    .direitos{
+        font-size: 3vh;
+    }
+
+}
+@media(min-width:1301px){
+    header{
+        display: flex;
+       align-items: center;
+       justify-content: space-between;
+       width: 98%;
+   }
+   
+   #Logo-container{
+       width: 20rem;
+       
+   }
+   
+   #logo img{
+       margin-top: 1rem; 
+       margin-left: 2rem;
+       width: 30rem;
+     
+   }
+   #botão_de_ação{
+       text-decoration: none;
+       border-style: none;
+       width: 300px;
+       height: 70px; 
+       margin-right: 3rem;
+       font-size: 20px;
+       color: rgba(61,69,72,255);
+       background-color: rgba(245,134,52,255);
+       border-radius: 5px;
+       cursor: pointer;
+   }
+   #botão_de_ação a{
+       text-decoration: none;
+       color: rgba(61,69,72,255);
+       font-size: 4vh;
+   }
+   #banner{
+     display: grid;
+     grid-template-columns: 1fr 1fr;
+     height: 50%;
+   }
+   .title_banner{
+       color: rgba(61,69,72,255);
+      margin-left: 2rem;
+       font-size: 3vh;
+       width: 100vh;
+       height: 30%;
+       
+   }
+   #second-banner{
+       background-color: rgba(245,134,52,255);
+       height: 80rem;
+       display: grid;
+       grid-template-rows: 1fr 1fr;
+       grid-template-columns: 1fr 1fr;
+       gap: 2px;
+       width: 97%;
+   }
+   #Chave_Simples{
+      align-items: center;
+      justify-content: center;
+       color: rgba(61,69,72,255);
+       border: 5px solid; 
+       border-radius: 15px;
+       margin-left: 2rem;
+       margin-top: 3rem;
+       width: 40rem;
+       height: 27rem;
+       font-size: 20px
+   }
+   
+   .fa-key{
+       margin-top: 2rem;
+       margin-left: 17rem;
+       font-size: 5rem;
+       color: rgba(61,69,72,255);
+   }
+   
+   .title-key{
+       margin-left: 9rem;
+   }
+   p{
+       margin-left: 3rem;
+   }
+   
+   #key_car{
+       align-items: center;
+       justify-content: center;
+        color: rgba(61,69,72,255);
+        border: 5px solid; 
+        border-radius: 15px;
+        margin-left: 2rem;
+        margin-top: 3rem;
+        width: 40rem;
+        height: 27rem;
+        font-size: 20px
+   }
+   .title-car{
+       margin-left: 7rem;
+   }
+   .fa-car{
+       margin-top: 2rem;
+       margin-left: 17rem;
+       font-size: 5rem;
+       color: rgba(61,69,72,255);
+   }
+   #key_tags{
+       align-items: center;
+       justify-content: center;
+        color: rgba(61,69,72,255);
+        border: 5px solid; 
+        border-radius: 15px;
+        margin-left: 2rem;
+        width: 40rem;
+        height: 30rem;
+        font-size: 20px;
+        margin-top: 5px;
+   }
+   .fa-id-card{
+       margin-top: 2rem;
+       margin-left: 17rem;
+       font-size: 5rem;
+       color: rgba(61,69,72,255);
+   }
+   .title-tags{
+       margin-left: 4rem;
+   }
+   #key_lock{
+       align-items: center;
+       justify-content: center;
+        color: rgba(61,69,72,255);
+        border: 5px solid; 
+        border-radius: 15px;
+        margin-left: 2rem;
+        width: 40rem;
+        height: 30rem;
+        font-size: 20px;
+        margin-top: 5px;
+   }
+   .fa-lock{
+       margin-top: 2rem;
+       margin-left: 17rem;
+       font-size: 5rem;
+       color: rgba(61,69,72,255);
+   }
+   .title-lock{
+       margin-left: 4rem;
+   }
+   .fa-whatsapp{
+       font-size: 5vh;
+       color: rgba(61,69,72,255);
+   }
+   #icon-banner img{
+       margin-left: 10rem;
+       width: 55vh;
+       margin-top: 2rem;
+       
+   }
+   .title_comp{
+       margin-left: 30rem;
+       font-size: 6vh;
+       color: rgba(61,69,72,255);
+       margin-top: 20vh;
+       
+   }
+   #container-competencias{
+       display: grid;
+       grid-template-columns: 1fr 1fr;
+       grid-template-rows: 1fr 1fr;
+       gap: 50px;
+       height: 50px;
+       margin-top: 2vh;
+   }
+   #fast-service{
+       align-items: center;
+       justify-content: center;
+        color: rgba(61,69,72,255);
+        border: 5px solid; 
+        border-radius: 15px;
+        margin-left: 2rem;
+        width: 40rem;
+        height: 30rem;
+        font-size: 20px;
+   }
+   .fa-clock{
+       margin-top: 2rem;
+       margin-left: 14rem;
+       font-size: 5rem;
+       color: rgba(61,69,72,255);
+   }
+   .rapido_atendimento{
+       margin-left: 2rem;
+   }
+   #satisfação{
+       align-items: center;
+       justify-content: center;
+        color: rgba(61,69,72,255);
+        border: 5px solid; 
+        border-radius: 15px;
+        margin-left: 2rem;
+        width: 40rem;
+        height: 30rem;
+        font-size: 20px
+   }
+   .fa-smile{
+       margin-top: 2rem;
+       margin-left: 14rem;
+       font-size: 5rem;
+       color: rgba(61,69,72,255);
+   }
+   .satisfação_cliente{
+       margin-left: 2rem;
+       margin-top: 2rem;
+   }
+   
+   
+   
+   #tecnology{
+       align-items: center;
+       justify-content: center;
+        color: rgba(61,69,72,255);
+        border: 5px solid; 
+        border-radius: 15px;
+        margin-left: 2rem;
+        width: 40rem;
+        height: 30rem;
+        font-size: 20px
+   
+   }
+   .fa-shield-alt{
+       margin-top: 2rem;
+       margin-left: 14rem;
+       font-size: 5rem;
+       color: rgba(61,69,72,255);
+   }
+   .title-tecnology{
+       margin-left: 2rem;
+   }
+   .text_tec{
+       margin-left: 1rem;
+   }
+   #confiança{
+       align-items: center;
+       justify-content: center;
+        color: rgba(61,69,72,255);
+        border: 5px solid; 
+        border-radius: 15px;
+        margin-left: 2rem;
+        width: 40rem;
+        height: 30rem;
+        font-size: 20px
+   }
+   .fa-handshake{
+       margin-top: 2rem;
+       margin-left: 14rem;
+       font-size: 5rem;
+       color: rgba(61,69,72,255);
+   }
+   .amigavel{
+       margin-left: 2rem;
+   }
+   .cordial_text{
+       margin-left: 1rem;
+   }
+   .text-fast{
+       margin-left: 1rem;
+   }
+   .text-satisfaction{
+       margin-left: 1rem;
+   }
+   #final-action{
+       align-items: center;
+       display: grid;
+       grid-template-columns: 1fr 1fr;
+       margin-top: 70%;
+       font-size: 3vh;
+       height: 55rem;     
+       margin-left: 2rem;
+       color: rgba(61,69,72,255);
+       width: 97%;
+   }
+   #final_button{
+       margin-left: 7rem;
+       width: 30rem;
+       height: 10rem;
+       text-decoration: none;
+       color: rgba(245,134,52,255);
+       border: 5px solid;
+       background-color: white;
+       border-radius: 5px;
+       cursor: pointer;
+   }
+   #final_button:hover{
+       background-color: rgba(245,134,52,255);
+       transition: 0.3s;
+   }
+   #final_button a{
+       text-decoration: none;
+       color: rgba(61,69,72,255);
+       font-size: 5vh;
+       font-weight: bolder;
+   }
+   
+   /* Estilo geral do footer */
+   footer {
+       background-color: rgba(61,69,72,255);
+       padding: 20px 0;
+       color: #fefefe;
+       font-family: Arial, sans-serif;
+       width: 98%;
+      
+   }
+   
+   /* Container do footer */
+   .footer-container {
+       align-items: center;
+   }
+   .direitos{
+       color: #fefefe;
+   }
+   
+   
+   
+   
+   
+   
+   /* Rodapé inferior com direitos autorais */
+   .footer-bottom {
+       margin-top: 20px;
+       text-align: center;
+     background-color: rgba(61,69,72,255);
+   }
+   
+   /* Adicione mais estilos conforme necessário */
+   
+ }
