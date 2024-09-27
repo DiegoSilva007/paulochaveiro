@@ -1,0 +1,622 @@
+@media(min-width:600px) and (max-width: 1000px) and (orientation: landscape){
+    header{
+        
+        width: 115rem
+    }
+    #logo img{
+        width: 35rem;
+      
+    }
+    .fa-whatsapp{
+        font-size: 15vh;
+    }
+    #botão_de_ação{
+        width: 100vh ;
+        height: 30vh;
+    }
+    #botão_de_ação a{
+        font-size: 10vh;
+    }
+    #banner{
+        grid-template-columns: 1fr;
+        width: 100rem;
+        height: 320vh;
+        
+
+    }
+    .title_banner{
+        font-size: 40px;
+    }
+    #icon-banner img{
+        width: 90vh;
+    }
+    #second-banner{
+        display: inline-block;
+        width: 112rem;
+        height: 300rem;
+    }
+    #Chave_Simples{
+        margin-top: 85px;
+        margin-left: 25rem;
+        font-size: 40px;
+        height: 60rem;
+        width: 55rem;
+    }
+    .title-key{
+        margin-left: 3rem;
+    }
+    .fa-key{
+        font-size: 7rem;
+    }
+    #key_car{
+        margin-top: 85px;
+        margin-left: 25rem;
+        font-size: 40px;
+        height: 70rem;
+        width: 55rem;
+    }
+    .title-car{
+        margin-left: 3rem;
+    }
+    .fa-car{
+        font-size: 7rem;
+    }
+    #key_tags{
+        margin-top: 85px;
+        margin-left: 25rem;
+        font-size: 40px;
+        height: 70rem;
+        width: 55rem;
+    }
+    .title-tags{
+        margin-left: 3rem;
+    }
+    .fa-id-card{
+        font-size: 7rem;
+    }
+    #key_lock{
+        margin-top: 85px;
+        margin-left: 25rem;
+        font-size: 40px;
+        height: 70rem;
+        width: 55rem;
+    }
+    .fa-lock{
+        font-size: 7rem;
+    }
+    .title-lock{
+        margin-left: 3rem;
+    }
+    .title_comp{ 
+        margin-top: 50%;
+        width: 50rem; 
+        margin-left: 30rem;
+        font-size: 20vh;
+
+    }
+    #container-fechaduras{
+       
+        height: 215rem !important;
+        
+    }
+    #instalação_fechadura{
+        grid-template-columns: 1fr;
+        justify-content: center;
+        align-items: center;
+        height: 100%;
+        margin-top: 2rem;
+        
+        
+    }
+    
+  .title_fechaduras{
+   
+        width: 80rem; 
+        font-size: 20vh;
+        margin-left: 2rem;
+        color: rgba(61,69,72,255);
+     }
+    #Profissionais{
+        margin-top: 10rem;
+        height: 60rem;
+        width: 65rem; 
+        margin-left: 25rem; 
+        justify-content: center;
+        align-items: center;
+        border: 5px solid; 
+        border-radius: 15px;
+        color: rgba(245,134,52,255);
+        padding-left: 1rem;
+    }
+    .fa-hammer{
+        font-size: 40vh;
+        color: rgba(61,69,72,255);
+       
+    }
+    .circle{
+        margin-left: 35%;
+        background-color: rgba(245,134,52,255);
+        width: 300px;
+        height: 300px;
+        border-radius: 50%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 2rem;
+      
+    }
+    .circle-config{
+        margin-left: 35%;
+        background-color: rgba(245,134,52,255);
+        width: 300px;
+        height: 300px;
+        border-radius: 50%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 2rem;
+    }
+    .title_especialista{
+        margin-left: 12rem;
+        font-size: 13vh;
+        color: rgba(61,69,72,255);
+    }
+    .title_config{
+        margin-left: 7rem;
+        font-size: 13vh;
+        color: rgba(61,69,72,255);
+    }
+    .text_fechaduras{
+        margin-left: 2rem;
+        font-size: 10vh;
+        margin-top: 2rem;
+        color: rgba(61,69,72,255);
+    }
+    #Configuração{
+        margin-top: 10rem;
+        height: 60rem;
+        width: 65rem;
+        margin-left: 25rem; 
+        justify-content: center;
+        align-items: center;
+        border: 5px solid; 
+        border-radius: 15px;
+        color: rgba(245,134,52,255);
+        padding-left: 1rem;
+    }
+    .fa-gear{
+        font-size: 40vh;
+        color: rgba(61,69,72,255);
+    }
+    .fa-check{
+        font-size: 40vh;
+        color: rgba(61,69,72,255);
+    }
+    .title_year{
+        margin-left: 7rem;
+        font-size: 13vh;
+        color: rgba(61,69,72,255);
+    }
+    #container-competencias{
+        grid-template-columns: 1fr;
+        margin-top: 10%;
+        margin-left: 1rem;
+    }
+    #fast-service{
+        margin-top: 60px;
+        font-size: 40px;
+        height: 60rem;
+        width: 53rem;
+        margin-left: 25rem;
+    }
+    .rapido_atendimento{
+        margin-left: 2rem;
+    }
+    .fa-clock{
+        font-size: 7rem;
+    }
+    
+    #satisfação{
+        margin-top: 60px;
+        font-size: 40px;
+        height: 65rem;
+        width: 53rem;
+        margin-left: 25rem;
+    }
+    .fa-smile{
+        font-size: 7rem;
+    }
+    .satisfação_cliente{
+        margin-left: 2rem;
+    }
+    
+    #tecnology{
+        margin-top: 60px;
+        font-size: 40px;
+        height: 70rem;
+        width: 53rem;
+        margin-left: 25rem;
+    }
+    .fa-shield-alt{
+        font-size: 7rem;
+    }
+    .title-tecnology{
+        margin-left: 2rem; }
+    #confiança{
+        margin-top: 60px;
+        font-size: 40px;
+        height: 67rem;
+        width: 53rem;
+        margin-left: 25rem;
+       
+    }
+    .fa-handshake{
+        font-size: 7rem;
+    }
+    .amigavel{
+        margin-left: 2rem; }
+     #final-action{
+       margin-top: 290rem;
+       grid-template-columns: 1fr;
+       width: 70rem;
+       font-size: 40px;
+       height: 80rem;
+       
+    }
+    #final_button{
+        width: 40rem;
+        
+    }
+    #final_button:hover{
+        transition: none;
+    }
+    #final_button a{
+        font-size: 3rem;
+       
+    }
+    .title_social-media{
+        margin-top: 10rem;
+          font-size: 20vh;
+          width: 200vh;
+          margin-left: 2rem;
+        
+     }
+     .fa-instagram{
+      margin-left: 2rem;
+      font-size: 30vh;
+      color: rgba(61,69,72,255);
+      
+     }
+    
+    /* Estilo geral do footer */
+    footer {
+        margin-top: 5rem;
+        width: 115rem;
+    }
+    
+    /* Container do footer */
+    .footer-container {
+      
+    }
+    .direitos{
+        font-size: 7vh;
+    }
+
+}
+@media(min-width:700px) and (max-width: 740px) and (orientation: landscape){
+    header{
+        
+        width: 180rem ;
+    }
+    #botão_de_ação{
+        width: 200vh ;
+        height: 50vh;
+    }
+    #botão_de_ação a{
+        font-size: 20vh;
+}
+    .fa-whatsapp{
+    font-size: 30vh;
+}
+#logo img{
+    width: 350vh;
+}
+    #banner{
+        height: 500vh;
+        width: 150rem;
+        
+    }
+    .title_banner{
+        font-size: 15vh;
+    }
+    #icon-banner img{
+        width: 100vh;
+    }
+    #second-banner{
+        width: 180rem ;
+        height: 230rem;
+      
+    }
+    
+    #Chave_Simples{
+        margin-top: 85px;
+        margin-left: 50rem;
+        font-size: 40px;
+        height: 60rem;
+        width: 55rem;
+    }
+    .title-key{
+        margin-left: 3rem;
+    }
+    .fa-key{
+        font-size: 7rem;
+        margin-left: 2rem;
+    }
+    #key_car{
+        margin-top: 85px;
+        margin-left: 50rem;
+        font-size: 40px;
+        height: 70rem;
+        width: 55rem;
+    }
+    .title-car{
+        margin-left: 3rem;
+    }
+    .fa-car{
+        font-size: 7rem;
+        margin-left: 2rem;
+    }
+    #key_tags{
+        margin-top: 85px;
+        margin-left: 50rem;
+        font-size: 40px;
+        height: 70rem;
+        width: 55rem;
+    }
+    .title-tags{
+        margin-left: 3rem;
+    }
+    .fa-id-card{
+        font-size: 7rem;
+        margin-left: 2rem;
+    }
+    #key_lock{
+        margin-top: 85px;
+        margin-left: 5000rem;
+        font-size: 40px;
+        height: 70rem;
+        width: 55rem;
+    }
+    .fa-lock{
+        font-size: 7rem;
+    }
+    .title-lock{
+        margin-left: 3rem;
+    }
+    .title_comp{ 
+        margin-top: 10%;
+        width: 50rem; 
+        margin-left: 50rem;
+        font-size: 20vh;
+     
+    }
+    #container-fechaduras{
+       
+        height: 440rem !important;
+        margin-top: -60rem;
+        width: 180rem !important;
+    }
+    #instalação_fechadura{
+        grid-template-columns: 1fr;
+        justify-content: center;
+        align-items: center;
+        height: 100%;
+        margin-top: 2rem;
+        
+        
+    }
+    
+  .title_fechaduras{
+        width: 80rem; 
+        font-size: 30vh !important;
+        margin-left: 2rem;
+        color: rgba(61,69,72,255);
+       
+     }
+    #Profissionais{
+        margin-top: 10rem;
+        height: 130rem;
+        width: 65rem; 
+        margin-left: 25rem; 
+        justify-content: center;
+        align-items: center;
+        border: 5px solid; 
+        border-radius: 15px;
+        color: rgba(245,134,52,255);
+        padding-left: 1rem;
+    }
+    .fa-hammer{
+        font-size: 40vh;
+        color: rgba(61,69,72,255);
+       
+    }
+    .circle{
+        margin-left: 35%;
+        background-color: rgba(245,134,52,255);
+        width: 300px;
+        height: 300px;
+        border-radius: 50%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 2rem;
+      
+    }
+    .circle-config{
+        margin-left: 35%;
+        background-color: rgba(245,134,52,255);
+        width: 300px;
+        height: 300px;
+        border-radius: 50%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 2rem;
+    }
+    .title_especialista{
+        margin-left: 12rem;
+        font-size: 20vh !important;
+        color: rgba(61,69,72,255);
+       
+    }
+    .title_config{
+        margin-left: 7rem;
+        font-size: 15vh;
+        color: rgba(61,69,72,255);
+    }
+    .text_fechaduras{
+        margin-left: 2rem;
+        font-size: 15vh !important;
+        margin-top: 2rem;
+        color: rgba(61,69,72,255);
+    }
+    #Configuração{
+        margin-top: 10rem;
+        height: auto;
+        width: 65rem;
+        margin-left: 25rem; 
+        justify-content: center;
+        align-items: center;
+        border: 5px solid; 
+        border-radius: 15px;
+        color: rgba(245,134,52,255);
+        padding-left: 1rem;
+    }
+    .fa-gear{
+        font-size: 40vh;
+        color: rgba(61,69,72,255);
+    }
+    .fa-check{
+        font-size: 40vh;
+        color: rgba(61,69,72,255);
+    }
+    .title_year{
+        margin-left: 7rem;
+        font-size: 13vh;
+        color: rgba(61,69,72,255);
+    }
+    #container-competencias{
+        grid-template-columns: 1fr;
+        margin-top: 2%;
+        margin-left: 1rem;
+      
+        width: 150rem;
+    }
+    #fast-service{
+        margin-top: 60px;
+        font-size: 40px;
+        height: 60rem;
+        width: 53rem;
+        margin-left: 50rem;
+    }
+    .rapido_atendimento{
+        margin-left: 2rem;
+    }
+    .fa-clock{
+        font-size: 7rem;
+        margin-left: 2rem;
+    }
+    
+    #satisfação{
+        margin-top: 60px;
+        font-size: 40px;
+        height: 65rem;
+        width: 53rem;
+        margin-left: 50rem;
+    }
+    .fa-smile{
+        font-size: 7rem;
+        margin-left: 2rem;
+    }
+    .satisfação_cliente{
+        margin-left: 2rem;
+    }
+    
+    #tecnology{
+        margin-top: 60px;
+        font-size: 40px;
+        height: 70rem;
+        width: 53rem;
+        margin-left: 50rem;
+    }
+    .fa-shield-alt{
+        font-size: 7rem;
+        margin-left: 2rem;
+    }
+    .title-tecnology{
+        margin-left: 2rem; }
+    #confiança{
+        margin-top: 60px;
+        font-size: 40px;
+        height: 67rem;
+        width: 53rem;
+        margin-left: 50rem;
+       
+    }
+    .fa-handshake{
+        font-size: 7rem;
+        margin-left: 2rem;
+    }
+    .amigavel{
+        margin-left: 2rem; }
+     #final-action{
+       margin-top: 290rem;
+       grid-template-columns: 1fr;
+       width: 70rem;
+       font-size: 40px;
+       height: 80rem;
+       
+    }
+    #final_button{
+        width: 40rem;
+        
+    }
+    #final_button:hover{
+        transition: none;
+    }
+    #final_button a{
+        font-size: 3rem;
+       
+    }
+    .title_social-media{
+        margin-top: 10rem;
+          font-size: 20vh;
+          width: 200vh;
+          margin-left: 2rem;
+        
+     }
+     .fa-instagram{
+      margin-left: 2rem;
+      font-size: 30vh;
+      color: rgba(61,69,72,255);
+      
+     }
+    
+    /* Estilo geral do footer */
+    footer {
+        margin-top: 5rem;
+        width: 115rem;
+        
+    }
+    
+    /* Container do footer */
+    .footer-container {
+      
+    }
+    .direitos{
+        font-size: 7vh;
+    }
+
+}
+
+ 

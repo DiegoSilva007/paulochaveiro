@@ -86,12 +86,114 @@
     .title-lock{
         margin-left: 3rem;
     }
-    .title_comp{
-        margin-top: 20%;
+    .title_comp{ 
+        margin-top: 50%;
         width: 50rem; 
         margin-left: 9rem;
         font-size: 10vh;
 
+    }
+    #container-fechaduras{
+
+        height: 240rem !important;
+        
+    }
+    #instalação_fechadura{
+        grid-template-columns: 1fr;
+        justify-content: center;
+        align-items: center;
+        height: 100%;
+        margin-top: 2rem;
+        
+        
+    }
+    
+  .title_fechaduras{
+        width: 67rem; 
+        font-size: 10vh;
+        margin-left: 2rem;
+        color: rgba(61,69,72,255);
+     }
+    #Profissionais{
+        margin-top: 10rem;
+        height: 60rem;
+        width: 65rem; 
+        margin-left: 3rem; 
+        justify-content: center;
+        align-items: center;
+        border: 5px solid; 
+        border-radius: 15px;
+        color: rgba(245,134,52,255);
+        padding-left: 1rem;
+    }
+    .fa-hammer{
+        font-size: 20vh;
+        color: rgba(61,69,72,255);
+       
+    }
+    .circle{
+        margin-left: 35%;
+        background-color: rgba(245,134,52,255);
+        width: 300px;
+        height: 300px;
+        border-radius: 50%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 2rem;
+      
+    }
+    .circle-config{
+        margin-left: 35%;
+        background-color: rgba(245,134,52,255);
+        width: 300px;
+        height: 300px;
+        border-radius: 50%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 2rem;
+    }
+    .title_especialista{
+        margin-left: 12rem;
+        font-size: 7vh;
+        color: rgba(61,69,72,255);
+    }
+    .title_config{
+        margin-left: 7rem;
+        font-size: 7vh;
+        color: rgba(61,69,72,255);
+    }
+    .text_fechaduras{
+        margin-left: 2rem;
+        font-size: 6vh;
+        margin-top: 2rem;
+        color: rgba(61,69,72,255);
+    }
+    #Configuração{
+        margin-top: 10rem;
+        height: 60rem;
+        width: 65rem;
+        margin-left: 3rem; 
+        justify-content: center;
+        align-items: center;
+        border: 5px solid; 
+        border-radius: 15px;
+        color: rgba(245,134,52,255);
+        padding-left: 1rem;
+    }
+    .fa-gear{
+        font-size: 20vh;
+        color: rgba(61,69,72,255);
+    }
+    .fa-check{
+        font-size: 20vh;
+        color: rgba(61,69,72,255);
+    }
+    .title_year{
+        margin-left: 7rem;
+        font-size: 7vh;
+        color: rgba(61,69,72,255);
     }
     #container-competencias{
         grid-template-columns: 1fr;
@@ -135,11 +237,7 @@
         font-size: 7rem;
     }
     .title-tecnology{
-        margin-left: 2rem;
-    }
-    .text_tec{
-      
-    }
+        margin-left: 2rem; }
     #confiança{
         margin-top: 60px;
         font-size: 40px;
@@ -150,18 +248,8 @@
         font-size: 7rem;
     }
     .amigavel{
-        margin-left: 2rem;
-    }
-    .cordial_text{
-        
-    }
-    .text-fast{
-       
-    }
-    .text-satisfaction{
-       
-    }
-    #final-action{
+        margin-left: 2rem; }
+     #final-action{
        margin-top: 290rem;
        grid-template-columns: 1fr;
        width: 55rem;
@@ -180,6 +268,19 @@
         font-size: 3rem;
        
     }
+    .title_social-media{
+        margin-top: 10rem;
+          font-size: 10vh;
+          width: 100vh;
+          margin-left: 2rem;
+        
+     }
+     .fa-instagram{
+      margin-left: 2rem;
+      font-size: 20vh;
+      color: rgba(61,69,72,255);
+      
+     }
     
     /* Estilo geral do footer */
     footer {
@@ -195,38 +296,452 @@
         font-size: 4vh;
     }
 }
+@media(width: 344px) {
+    .title_fechaduras{
+        width: 60rem !important; 
+        font-size: 8vh !important;
+
+        margin-left: 2rem;
+        color: rgba(61,69,72,255);
+       
+     }
+    #container-fechaduras{
+        width: 60rem !important;
+        height: 380rem !important;
+    
+      
+        
+    }
+    #instalação_fechadura{
+        grid-template-columns: 1fr;
+        justify-content: center;
+        align-items: center;
+        
+        margin-top: 2rem;
+        
+        
+    }
+    
+  .title_fechaduras{
+        width: 67rem; 
+        font-size: 10vh;
+        margin-left: 2rem;
+        color: rgba(61,69,72,255);
+     }
+    #Profissionais{
+        
+        height: 110rem !important;
+        width: 60rem !important; 
+        margin-left: 1rem !important; 
+        justify-content: center;
+        align-items: center;
+        border: 5px solid; 
+        border-radius: 15px;
+        color: rgba(245,134,52,255);
+        padding-left: 1rem;
+    }
+    .fa-hammer{
+        font-size: 20vh !important;
+        color: rgba(61,69,72,255);
+       
+    }
+    .circle{
+        margin-left: 25% !important ;
+        background-color: rgba(245,134,52,255);
+        width: 400px !important;
+        height: 400px !important;
+        border-radius: 50%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 2rem;
+      
+    }
+    .circle-config{
+        margin-left: 25% !important; 
+        background-color: rgba(245,134,52,255);
+        width: 400px !important;
+        height: 400px !important;
+        border-radius: 50%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 2rem;
+    }
+    .title_especialista{
+        margin-left: 12rem;
+        font-size: 7vh;
+        color: rgba(61,69,72,255);
+    }
+    .title_config{
+        margin-left: 7rem;
+        font-size: 7vh;
+        color: rgba(61,69,72,255);
+    }
+    .text_fechaduras{
+        margin-left: 2rem;
+        font-size: 6vh;
+       
+        margin-top: 2rem;
+        color: rgba(61,69,72,255);
+    }
+    #Configuração{
+        margin-top: 10rem;
+        height: 100rem !important;
+        width: 60rem !important; 
+        margin-left: 1rem !important; 
+        justify-content: center;
+        align-items: center;
+        border: 5px solid; 
+        border-radius: 15px;
+        color: rgba(245,134,52,255);
+        padding-left: 1rem;
+    }
+    .fa-gear{
+        font-size: 20vh !important;
+        color: rgba(61,69,72,255);
+    }
+    .fa-check{
+        font-size: 20vh;
+        color: rgba(61,69,72,255);
+    }
+    .title_year{
+        margin-left: 5rem !important;
+        font-size: 7vh;
+        color: rgba(61,69,72,255);
+    }
+    
+}
 
 @media (width:600px){
     header{
-       
-        width: 500rem;
+
+       width: 105rem !important;
     }
     #logo img{
-        width: 35rem;
+        width: 55rem !important;
       
     }
     .fa-whatsapp{
-        font-size: 6vh;
+        font-size: 8vh !important;
     }
     #botão_de_ação{
-        width: 36vh;
-        height: 10vh;
+        width: 55vh !important;
+        height: 15vh !important;
         
     }
     #botão_de_ação a{
-        font-size: 4vh;
+        font-size: 6vh !important;
+    }
+    .title_banner{
+        width: 90rem;
+        font-size: 55px;
+    }
+    #icon-banner img{
+        width: 55vh;
     }
     #second-banner{
         display: inline-block;
-        width: 170%;
-        height: 300rem;
-       padding-left: 2rem;
+        width: 60rem;
+        height: 390rem !important;
+        padding-left: 3rem !important;
+        border: 2px solid red;
+    }
+    #Chave_Simples{
+        margin-top: 85px;
+        margin-left: 15rem;
+        font-size: 55px;
+        height: 80rem;
+        width: 75rem;
+    }
+    .title-key{
+        margin-left: 3rem;
+    }
+    .fa-key{
+        font-size: 10rem;
+        margin-left: 25rem;
+    }
+    #key_car{
+        margin-top: 85px;
+        margin-left: 15rem;
+        font-size: 55px;
+        height: 90rem;
+        width: 75rem;
+    }
+    .title-car{
+        margin-left: 3rem;
+    }
+    .fa-car{
+        font-size: 10rem;
+        margin-left: 25rem;
+    }
+    #key_tags{
+        margin-top: 85px;
+        margin-left: 15rem;
+        font-size: 55px;
+        height: 90rem;
+        width: 75rem;
+    }
+    .title-tags{
+        margin-left: 3rem;
+    }
+    .fa-id-card{
+        font-size: 10rem;
+        margin-left: 25rem;
+    }
+    #key_lock{
+        margin-top: 85px;
+        margin-left: 15rem;
+        font-size: 55px;
+        height: 95rem;
+        width: 75rem;
+    }
+    .fa-lock{
+        font-size: 10rem;
+        margin-left: 25rem;
+    }
+    .title-lock{
+        margin-left: 3rem;
+    }
+    #container-fechaduras{
+        width: 105rem !important;
+        height: 370rem !important;
+    
+      
+        
+    }
+    #instalação_fechadura{
+        grid-template-columns: 1fr;
+        justify-content: center;
+        align-items: center;
+        
+        margin-top: 2rem;
+        
+        
+    }
+    
+  .title_fechaduras{
+        width: 67rem; 
+        font-size: 10vh;
+        margin-left: 2rem;
+        color: rgba(61,69,72,255);
+     }
+    #Profissionais{
+        
+        height: 100rem !important;
+        width: 100rem !important; 
+        margin-left: 3rem; 
+        justify-content: center;
+        align-items: center;
+        border: 5px solid; 
+        border-radius: 15px;
+        color: rgba(245,134,52,255);
+        padding-left: 1rem;
+    }
+    .fa-hammer{
+        font-size: 20vh !important;
+        color: rgba(61,69,72,255);
+       
+    }
+    .circle{
+        margin-left: 35%;
+        background-color: rgba(245,134,52,255);
+        width: 400px !important;
+        height: 400px !important;
+        border-radius: 50%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 2rem;
+      
+    }
+    .circle-config{
+        margin-left: 35%;
+        background-color: rgba(245,134,52,255);
+        width: 400px !important;
+        height: 400px !important;
+        border-radius: 50%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 2rem;
+    }
+    .title_especialista{
+        margin-left: 12rem;
+        font-size: 7vh;
+        color: rgba(61,69,72,255);
+    }
+    .title_config{
+        margin-left: 7rem;
+        font-size: 7vh;
+        color: rgba(61,69,72,255);
+    }
+    .text_fechaduras{
+        margin-left: 2rem;
+        font-size: 6vh;
+        margin-top: 2rem;
+        color: rgba(61,69,72,255);
+    }
+    #Configuração{
+        margin-top: 10rem;
+        height: 100rem !important;
+        width: 100rem !important; 
+        margin-left: 3rem; 
+        justify-content: center;
+        align-items: center;
+        border: 5px solid; 
+        border-radius: 15px;
+        color: rgba(245,134,52,255);
+        padding-left: 1rem;
+    }
+    .fa-gear{
+        font-size: 20vh !important;
+        color: rgba(61,69,72,255);
+    }
+    .fa-check{
+        font-size: 20vh;
+        color: rgba(61,69,72,255);
+    }
+    .title_year{
+        margin-left: 7rem;
+        font-size: 7vh;
+        color: rgba(61,69,72,255);
+    }
+    .title_comp{
+        width: 50rem !important; 
+        margin-left: 30rem !important;
+        font-size: 10vh !important;
     }
     #container-competencias{
         grid-template-columns: 1fr;
         margin-top: 10%;
         margin-left: 2rem;
+        width: 105rem !important;
+        height: 400rem !important;
+       
     }
+    #fast-service{
+        
+        margin-top: 10rem;
+        height: 80rem !important;
+        width: 100rem !important; 
+        margin-left: 3rem; 
+        justify-content: center;
+        align-items: center;
+        border: 5px solid; 
+        border-radius: 15px;
+        
+        padding-left: 1rem;
+    }
+    .rapido_atendimento{
+        margin-left: 2rem;
+        font-size: 10vh !important ;
+    }
+    .text-fast{
+        font-size: 6vh;
+    }
+    .fa-clock{
+        font-size: 15rem;
+        margin-left: 40rem !important;
+    }
+    
+    #satisfação{
+        margin-top: 10rem;
+        height: 80rem !important;
+        width: 100rem !important; 
+        margin-left: 3rem; 
+        justify-content: center;
+        align-items: center;
+        border: 5px solid; 
+        border-radius: 15px;
+    }
+    .fa-smile{
+        font-size: 15rem;
+        margin-left: 40rem !important;
+    }
+    .satisfação_cliente{
+        margin-left: 2rem;
+        font-size: 10vh;
+    }
+    .text-satisfaction{
+        font-size: 6vh;
+    }
+    
+    #tecnology{
+        margin-top: 10rem;
+        height: 85rem !important;
+        width: 100rem !important; 
+        margin-left: 3rem; 
+        justify-content: center;
+        align-items: center;
+        border: 5px solid; 
+        border-radius: 15px;
+    
+    }
+    .fa-shield-alt{
+        font-size: 15rem;
+        margin-left: 37rem !important;
+    }
+    .title-tecnology{
+        margin-left: 2rem;
+        font-size: 10vh; }
+    .text_tec{
+        font-size: 6vh;
+
+    }
+    #confiança{
+        margin-top: 10rem;
+        height: 85rem !important;
+        width: 100rem !important; 
+        margin-left: 3rem; 
+        justify-content: center;
+        align-items: center;
+        border: 5px solid; 
+        border-radius: 15px;
+    }
+    .fa-handshake{
+        font-size: 15rem;
+        margin-left: 37rem;
+    }
+    .amigavel{
+        margin-left: 2rem;
+       font-size: 10vh; }
+    .cordial_text{
+        font-size: 6vh;
+       }
+       #final-action{
+        margin-top: 15rem;
+        grid-template-columns: 1fr;
+        width: 100rem;
+       
+        font-size: 50px;
+        height: 80rem;
+        
+     }
+     #final_button{
+         width: 65rem;
+             
+     }
+     #final_button:hover{
+         transition: none;
+     }
+     #final_button a{
+         font-size: 4rem;
+        
+     }
+     .title_social-media{
+        margin-top: 10rem;
+          font-size: 10vh;
+          width: 100vh;
+          margin-left: 2rem;
+        
+     }
+     .fa-instagram{
+      margin-left: 2rem;
+      font-size: 20vh;
+      color: rgba(61,69,72,255);
+      
+     }
     /* Estilo geral do footer */
     footer {
         margin-top: 5rem;
@@ -240,42 +755,287 @@
     .direitos{
         font-size: 4vh;
     }
+  
 }
-@media (width:400px){
+@media (min-width:400px) and (max-width:430px){
     header{
-       
-        width: 63rem;
+   
+        width: 80rem !important;
     }
     #logo img{
-        width: 35rem;
+        width: 45rem !important;
       
     }
     .fa-whatsapp{
-        font-size: 6vh;
+        font-size: 7vh !important;
     }
     #botão_de_ação{
-        width: 36vh;
-        height: 10vh;
+        width: 47vh !important;
+        height: 15vh !important;
         
     }
     #botão_de_ação a{
-        font-size: 4vh;
+        font-size: 5vh !important;
     }
     #second-banner{
         display: inline-block;
         width: 235%;
         height: 300rem;
-       padding-left: 2rem;
+       padding-left: 10rem !important;
+    }
+    #container-fechaduras{
+        width: 70rem;
+        height: 350rem !important;
+        padding-left: 4rem;
+    }
+    #instalação_fechadura{
+        grid-template-columns: 1fr;
+        justify-content: center;
+        align-items: center;
+        height: 100%;
+        margin-top: 2rem;
+        
+    }
+    
+  .title_fechaduras{
+        width: 67rem; 
+        font-size: 10vh;
+        margin-left: 2rem;
+        color: rgba(61,69,72,255);
+     }
+    #Profissionais{
+        margin-top: 10rem;
+        height: 97rem !important;
+        width: 67rem !important; 
+        margin-left: 3rem; 
+        justify-content: center;
+        align-items: center;
+        border: 5px solid; 
+        border-radius: 15px;
+        color: rgba(245,134,52,255);
+        padding-left: 1rem;
+    }
+    .fa-hammer{
+        font-size: 15vh !important;
+        color: rgba(61,69,72,255);
+       
+    }
+    .circle{
+        margin-left: 25%;
+        background-color: rgba(245,134,52,255);
+        width: 300px;
+        height: 300px;
+        border-radius: 50%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 2rem;
+      
+    }
+    .circle-config{
+        margin-left: 35%;
+        background-color: rgba(245,134,52,255);
+        width: 300px;
+        height: 300px;
+        border-radius: 50%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 2rem;
+    }
+    .title_especialista{
+        margin-left: 5rem !important;
+        font-size: 7vh;
+        color: rgba(61,69,72,255);
+    }
+    .title_config{
+        margin-left: 3rem !important;
+        font-size: 7vh;
+        color: rgba(61,69,72,255);
+    }
+    .text_fechaduras{
+        margin-left: 2rem;
+        font-size: 6vh;
+        margin-top: 2rem;
+        color: rgba(61,69,72,255);
+    }
+    #Configuração{
+        margin-top: 10rem;
+        height: 95rem !important;
+        width: 67rem !important;
+        margin-left: 3rem; 
+        justify-content: center;
+        align-items: center;
+        border: 5px solid; 
+        border-radius: 15px;
+        color: rgba(245,134,52,255);
+        padding-left: 1rem;
+    }
+    .fa-gear{
+        font-size: 15vh !important;
+        color: rgba(61,69,72,255);
+    }
+    .fa-check{
+        font-size: 15vh !important;
+        color: rgba(61,69,72,255);
+    }
+    .title_year{
+        margin-left: 4rem !important;
+        font-size: 7vh;
+        color: rgba(61,69,72,255);
     }
     #container-competencias{
         grid-template-columns: 1fr;
         margin-top: 10%;
         margin-left: 2rem;
     }
+    .title_comp{
+        width: 50rem !important; 
+        margin-left: 15rem !important;
+        font-size: 10vh !important;
+    }
+    #container-competencias{
+        grid-template-columns: 1fr;
+        margin-top: 10%;
+        margin-left: 2rem;
+        width: 75rem !important;
+        height: 400rem !important;
+      
+    }
+    #fast-service{
+        
+        margin-top: 10rem;
+        height: 95rem !important;
+        width: 70rem !important;
+        margin-left: 3rem; 
+        justify-content: center;
+        align-items: center;
+        border: 5px solid; 
+        border-radius: 15px;
+        
+      
+        
+        padding-left: 1rem;
+    }
+    .rapido_atendimento{
+        margin-left: 2rem;
+        font-size: 10vh !important ;
+    }
+    .text-fast{
+        font-size: 6vh;
+    }
+    .fa-clock{
+        font-size: 12rem;
+        margin-left: 25rem !important;
+    }
+    
+    #satisfação{
+        margin-top: 10rem;
+        height: 95rem !important;
+        width: 70rem !important;
+        margin-left: 3rem; 
+        justify-content: center;
+        align-items: center;
+        border: 5px solid; 
+        border-radius: 15px;
+        
+        padding-left: 1rem;
+        
+        padding-left: 1rem;
+    }
+    .fa-smile{
+        font-size: 15rem;
+        margin-left: 25rem !important;
+    }
+    .satisfação_cliente{
+        margin-left: 2rem;
+        font-size: 10vh;
+    }
+    .text-satisfaction{
+        font-size: 6vh;
+    }
+    
+    #tecnology{
+        margin-top: 10rem;
+        height: 95rem !important;
+        width: 70rem !important;
+        margin-left: 3rem; 
+        justify-content: center;
+        align-items: center;
+        border: 5px solid; 
+        border-radius: 15px;
+        
+        padding-left: 1rem;
+        
+        padding-left: 1rem;
+    
+    }
+    .fa-shield-alt{
+        font-size: 15rem;
+        margin-left: 25rem !important;
+    }
+    .title-tecnology{
+        margin-left: 2rem;
+        font-size: 10vh; }
+    .text_tec{
+        font-size: 6vh;
+
+    }
+    #confiança{
+        margin-top: 10rem;
+        height: 95rem !important;
+        width: 70rem !important;
+        margin-left: 3rem; 
+        justify-content: center;
+        align-items: center;
+        border: 5px solid; 
+        border-radius: 15px;
+        
+        padding-left: 1rem;
+        
+        padding-left: 1rem;
+    }
+    .fa-handshake{
+        font-size: 15rem;
+        margin-left: 23rem;
+    }
+    .amigavel{
+        margin-left: 2rem;
+       font-size: 10vh; }
+    .cordial_text{
+        font-size: 6vh;
+       }
+       #final-action{
+        margin-top: 35rem;
+        grid-template-columns: 1fr;
+        width: 60rem;
+       
+        font-size: 50px;
+        height: 80rem;
+        
+     }
+     #final_button{
+         width: 65rem;
+             
+     }
+     #final_button:hover{
+         transition: none;
+     }
+     #final_button a{
+         font-size: 4rem;
+        
+     }
+     .title_social-media{
+        margin-top: 10rem;
+          font-size: 10vh;
+          width: 100vh;
+          margin-left: 2rem;
+        
+     }
     /* Estilo geral do footer */
     footer {
         margin-top: 5rem;
-        width: 240%;
+        width: 310% !important;
     }
     
     /* Container do footer */
@@ -288,29 +1048,133 @@
 }
 @media (width:390px){
     header{
-       
-        width: 63rem;
+    
+
+        width: 75rem !important;
     }
     #logo img{
-        width: 35rem;
+        width: 40rem !important;
       
     }
     .fa-whatsapp{
-        font-size: 6vh;
+        font-size: 8vh !important;
     }
+    
+    
     #botão_de_ação{
-        width: 36vh;
-        height: 10vh;
+        width: 47vh !important;
+        height: 13vh !important; 
         
     }
     #botão_de_ação a{
-        font-size: 4vh;
+        font-size: 5vh !important;
     }
     #second-banner{
         display: inline-block;
         width: 250%;
         height: 300rem;
-       padding-left: 2rem;
+       padding-left: 6rem !important;
+    }
+    #container-fechaduras{
+        width: 70rem;
+        height: 330rem !important;
+        
+    }
+    #instalação_fechadura{
+        grid-template-columns: 1fr;
+        justify-content: center;
+        align-items: center;
+        height: 100%;
+        margin-top: 2rem;
+        
+    }
+    
+  .title_fechaduras{
+        width: 67rem; 
+        font-size: 10vh;
+        margin-left: 2rem;
+        color: rgba(61,69,72,255);
+     }
+    #Profissionais{
+        margin-top: 10rem;
+        height: 90rem !important;
+        width: 65rem; 
+        margin-left: 3rem; 
+        justify-content: center;
+        align-items: center;
+        border: 5px solid; 
+        border-radius: 15px;
+        color: rgba(245,134,52,255);
+        padding-left: 1rem;
+    }
+    .fa-hammer{
+        font-size: 20vh;
+        color: rgba(61,69,72,255);
+       
+    }
+    .circle{
+        margin-left: 35%;
+        background-color: rgba(245,134,52,255);
+        width: 300px;
+        height: 300px;
+        border-radius: 50%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 2rem;
+      
+    }
+    .circle-config{
+        margin-left: 35%;
+        background-color: rgba(245,134,52,255);
+        width: 300px;
+        height: 300px;
+        border-radius: 50%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 2rem;
+    }
+    .title_especialista{
+        margin-left: 5rem !important;
+        font-size: 7vh;
+        color: rgba(61,69,72,255);
+    }
+    .title_config{
+        margin-left: 5rem !important;
+        font-size: 7vh;
+        color: rgba(61,69,72,255);
+    }
+    .text_fechaduras{
+        margin-left: 2rem;
+        font-size: 6vh;
+        margin-top: 2rem;
+        color: rgba(61,69,72,255);
+    }
+    #Configuração{
+        margin-top: 10rem;
+        height: 90rem !important;
+        width: 65rem;
+        margin-left: 3rem; 
+        justify-content: center;
+        align-items: center;
+        border: 5px solid; 
+        border-radius: 15px;
+        color: rgba(245,134,52,255);
+        padding-left: 1rem;
+    }
+    .fa-gear{
+        font-size: 20vh;
+        color: rgba(61,69,72,255);
+    }
+    .fa-check{
+        font-size: 20vh;
+        color: rgba(61,69,72,255);
+    }
+    .title_year{
+        margin-left: 5rem !important;
+        font-size: 7vh;
+        color: rgba(61,69,72,255);
     }
     #container-competencias{
         grid-template-columns: 1fr;
@@ -363,6 +1227,107 @@
         width: 270%;
         height: 300rem;
        padding-left: 2rem;
+    } 
+    #container-fechaduras{
+        width: 70rem;
+        height: 260rem !important;
+        
+    }
+    #instalação_fechadura{
+        grid-template-columns: 1fr;
+        justify-content: center;
+        align-items: center;
+        height: 100%;
+        margin-top: 2rem;
+        
+    }
+    
+  .title_fechaduras{
+        width: 67rem; 
+        font-size: 10vh;
+        margin-left: 2rem;
+        color: rgba(61,69,72,255);
+     }
+    #Profissionais{
+        margin-top: 10rem;
+        height: 70rem !important;
+        width: 65rem; 
+        margin-left: 3rem; 
+        justify-content: center;
+        align-items: center;
+        border: 5px solid; 
+        border-radius: 15px;
+        color: rgba(245,134,52,255);
+        padding-left: 1rem;
+    }
+    .fa-hammer{
+        font-size: 20vh;
+        color: rgba(61,69,72,255);
+       
+    }
+    .circle{
+        margin-left: 35%;
+        background-color: rgba(245,134,52,255);
+        width: 300px;
+        height: 300px;
+        border-radius: 50%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 2rem;
+      
+    }
+    .circle-config{
+        margin-left: 35%;
+        background-color: rgba(245,134,52,255);
+        width: 300px;
+        height: 300px;
+        border-radius: 50%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 2rem;
+    }
+    .title_especialista{
+        margin-left: 12rem;
+        font-size: 7vh;
+        color: rgba(61,69,72,255);
+    }
+    .title_config{
+        margin-left: 7rem;
+        font-size: 7vh;
+        color: rgba(61,69,72,255);
+    }
+    .text_fechaduras{
+        margin-left: 2rem;
+        font-size: 6vh;
+        margin-top: 2rem;
+        color: rgba(61,69,72,255);
+    }
+    #Configuração{
+        margin-top: 10rem;
+        height: 60rem;
+        width: 65rem;
+        margin-left: 3rem; 
+        justify-content: center;
+        align-items: center;
+        border: 5px solid; 
+        border-radius: 15px;
+        color: rgba(245,134,52,255);
+        padding-left: 1rem;
+    }
+    .fa-gear{
+        font-size: 20vh;
+        color: rgba(61,69,72,255);
+    }
+    .fa-check{
+        font-size: 20vh;
+        color: rgba(61,69,72,255);
+    }
+    .title_year{
+        margin-left: 7rem;
+        font-size: 7vh;
+        color: rgba(61,69,72,255);
     }
     #container-competencias{
         grid-template-columns: 1fr;
@@ -415,6 +1380,107 @@
         width: 280%;
         height: 300rem;
        padding-left: 2rem;
+    }
+    #container-fechaduras{
+        width: 70rem;
+        height: 240rem;
+        
+    }
+    #instalação_fechadura{
+        grid-template-columns: 1fr;
+        justify-content: center;
+        align-items: center;
+        height: 100%;
+        margin-top: 2rem;
+        
+    }
+    
+  .title_fechaduras{
+        width: 67rem; 
+        font-size: 10vh;
+        margin-left: 2rem;
+        color: rgba(61,69,72,255);
+     }
+    #Profissionais{
+        margin-top: 10rem;
+        height: 60rem;
+        width: 65rem; 
+        margin-left: 3rem; 
+        justify-content: center;
+        align-items: center;
+        border: 5px solid; 
+        border-radius: 15px;
+        color: rgba(245,134,52,255);
+        padding-left: 1rem;
+    }
+    .fa-hammer{
+        font-size: 20vh;
+        color: rgba(61,69,72,255);
+       
+    }
+    .circle{
+        margin-left: 35%;
+        background-color: rgba(245,134,52,255);
+        width: 300px;
+        height: 300px;
+        border-radius: 50%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 2rem;
+      
+    }
+    .circle-config{
+        margin-left: 35%;
+        background-color: rgba(245,134,52,255);
+        width: 300px;
+        height: 300px;
+        border-radius: 50%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 2rem;
+    }
+    .title_especialista{
+        margin-left: 12rem;
+        font-size: 7vh;
+        color: rgba(61,69,72,255);
+    }
+    .title_config{
+        margin-left: 7rem;
+        font-size: 7vh;
+        color: rgba(61,69,72,255);
+    }
+    .text_fechaduras{
+        margin-left: 2rem;
+        font-size: 6vh;
+        margin-top: 2rem;
+        color: rgba(61,69,72,255);
+    }
+    #Configuração{
+        margin-top: 10rem;
+        height: 60rem;
+        width: 65rem;
+        margin-left: 3rem; 
+        justify-content: center;
+        align-items: center;
+        border: 5px solid; 
+        border-radius: 15px;
+        color: rgba(245,134,52,255);
+        padding-left: 1rem;
+    }
+    .fa-gear{
+        font-size: 20vh;
+        color: rgba(61,69,72,255);
+    }
+    .fa-check{
+        font-size: 20vh;
+        color: rgba(61,69,72,255);
+    }
+    .title_year{
+        margin-left: 7rem;
+        font-size: 7vh;
+        color: rgba(61,69,72,255);
     }
     #container-competencias{
         grid-template-columns: 1fr;
@@ -550,6 +1616,107 @@
        
 
     }
+   
+    #container-fechaduras{
+        height: 570rem;
+        width: 190rem !important;
+    }
+    #instalação_fechadura{
+        grid-template-columns: 1fr;
+        justify-content: center;
+        align-items: center;
+        height: 100%;
+        padding-left: 10%;
+    }
+       .title_fechaduras{
+        margin-left: 15rem;
+        font-size: 5vh;
+        color: rgba(61,69,72,255);
+        padding-bottom: 10rem;
+        width: 150rem !important;
+        font-size: 15vh !important;
+    }
+    #Profissionais{
+        margin-top: 85px;
+        font-size: 90px;
+        padding-left:3rem;
+        height: 160rem;
+        width: 135rem;
+        justify-content: center;
+        align-items: center;
+        border: 5px solid; 
+        border-radius: 15px;
+        color: rgba(245,134,52,255);
+        padding-left: 1rem;
+    }
+    .fa-hammer{
+        font-size: 20vh;
+        color: rgba(61,69,72,255);
+       
+    }
+    .circle{
+        margin-left: 35%;
+        background-color: rgba(245,134,52,255);
+        width: 500px;
+        height: 500px;
+        border-radius: 50%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 2rem;
+      
+    }
+    .circle-config{
+        margin-left: 35%;
+        background-color: rgba(245,134,52,255);
+        width: 500px;
+        height: 500px;
+        border-radius: 50%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 2rem;
+    }
+    .title_especialista{
+        margin-left: 10rem;
+        font-size: 15vh;
+        color: rgba(61,69,72,255);
+    }
+    .title_config{
+        margin-left: 7rem;
+        font-size: 15vh;
+        color: rgba(61,69,72,255);
+    }
+    .text_fechaduras{
+        margin-left: 2rem;
+        font-size: 90px;
+        margin-top: 2rem;
+        color: rgba(61,69,72,255);
+    }
+    #Configuração{
+        margin-top: 85px;
+        font-size: 90px;
+        padding-left:3rem;
+        height: 160rem;
+        width: 135rem;
+        justify-content: center;
+        align-items: center;
+        border: 5px solid; 
+        border-radius: 15px;
+        color: rgba(245,134,52,255);
+        padding-left: 1rem;
+    }
+    .fa-gear{
+        font-size: 20vh;
+        color: rgba(61,69,72,255);
+    }
+    .fa-check{
+        font-size: 20vh;
+        color: rgba(61,69,72,255);
+    }
+    .title_year{
+        font-size: 15vh;
+    }
     #container-competencias{
         grid-template-columns: 1fr;
         margin-top: 10%;
@@ -660,6 +1827,16 @@
         font-size: 6rem;
        
     }
+    .title_social-media{
+        margin-top: 10rem ;
+          font-size: 15vh ;
+          width: 150vh ;
+          margin-left: 2rem;
+        
+     }
+     .fa-instagram{
+        font-size: 25vh;
+     }
     
     /* Estilo geral do footer */
     footer {
@@ -675,11 +1852,23 @@
         font-size: 7vh;
     }
 }
+@media(width:540px){
+    #Profissionais{
+        height: 100rem !important;
+    }
+    #container-fechaduras{
+        height: 320rem !important;
+       
+    }
+    #Configuração{
+        height: auto !important;
+    }
+}
 @media(min-width: 800px) and (max-width:1023px){
    
     header{
         width: 56rem;
-       
+     
     }
     #logo img{
         width: 30rem;
@@ -701,7 +1890,7 @@
         grid-template-columns: 1fr;
         width: 55rem;
         height: 100vh;
-        
+      
         
     }
     .title_banner{
@@ -716,7 +1905,7 @@
         display: inline-block;
         width: 56rem;
         height: 330rem;
-        
+    
     }
     #Chave_Simples{
         margin-top: 85px;
@@ -789,6 +1978,112 @@
        margin-left: 5rem;
 
     }
+    .title_fechaduras{
+       
+        margin-left: 2rem !important;
+        width: 50rem;
+        font-size: 10vh;
+    }
+    #container-fechaduras{
+        height: 300rem !important;
+        
+        width: 57rem;
+    }
+    #instalação_fechadura{
+        grid-template-columns: 1fr;
+        justify-content: center;
+        align-items: center;
+        height: 100%;
+        padding-left: 10%;
+    }
+       .title_fechaduras{
+        margin-left: 15rem;
+        font-size: 5vh;
+        color: rgba(61,69,72,255);
+    }
+    #Profissionais{
+        margin-top: 2rem;
+        height: 95rem !important;
+        width: 45rem;
+        margin-left: 1rem !important;
+        justify-content: center;
+        align-items: center;
+        border: 5px solid; 
+        border-radius: 15px;
+        color: rgba(245,134,52,255);
+        padding-left: 1rem;
+    }
+    .fa-hammer{
+        font-size: 14vh;
+        color: rgba(61,69,72,255);
+       
+    }
+    .circle{
+        margin-left: 30% !important;
+        background-color: rgba(245,134,52,255);
+        width: 300px !important;
+        height: 300px !important;
+        border-radius: 50%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 2rem;
+      
+    }
+    .circle-config{
+        margin-left: 30% !important;
+        background-color: rgba(245,134,52,255);
+        width: 300px !important;
+        height: 300px !important;
+        border-radius: 50%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 2rem;
+    }
+    .title_especialista{
+        margin-left: 10rem;
+        font-size: 4vh;
+        color: rgba(61,69,72,255);
+    }
+    .title_config{
+        margin-left: 7rem;
+        font-size: 4vh;
+        color: rgba(61,69,72,255);
+    }
+    .text_fechaduras{
+        margin-left: 2rem;
+        font-size: 3vh;
+        margin-top: 2rem;
+        color: rgba(61,69,72,255);
+    }
+    #Configuração{
+        margin-top: 2rem;
+        height: 80rem !important;
+        width: 45rem;
+        margin-left: 1rem !important;
+        justify-content: center;
+        align-items: center;
+        border: 5px solid; 
+        border-radius: 15px;
+        color: rgba(245,134,52,255);
+        padding-left: 1rem;
+    }
+    .fa-gear{
+        font-size: 14vh;
+        color: rgba(61,69,72,255);
+    }
+    .fa-check{
+        font-size: 14vh;
+        color: rgba(61,69,72,255);
+    }
+    .title_year{
+       
+        margin-left: 5rem;
+        font-size: 4vh;
+        color: rgba(61,69,72,255);
+    }
+    
     #container-competencias{
         grid-template-columns: 1fr;
         margin-left: 1rem;
@@ -930,7 +2225,97 @@
     .fa-whatsapp{
         font-size: 3vh;
     }
-   
+    #container-fechaduras{
+        height: 110rem;
+    }
+    #instalação_fechadura{
+        grid-template-columns: 1fr;
+        justify-content: center;
+        align-items: center;
+        height: 100%;
+        padding-left: 10%;
+    }
+       .title_fechaduras{
+        margin-left: 15rem;
+        font-size: 5vh;
+        color: rgba(61,69,72,255);
+    }
+    #Profissionais{
+        margin-top: 2rem;
+        height: 33rem;
+        width: 45rem;
+        margin-left: 14rem;
+        justify-content: center;
+        align-items: center;
+        border: 5px solid; 
+        border-radius: 15px;
+        color: rgba(245,134,52,255);
+        padding-left: 1rem;
+    }
+    .fa-hammer{
+        font-size: 14vh;
+        color: rgba(61,69,72,255);
+       
+    }
+    .circle{
+        margin-left: 35%;
+        background-color: rgba(245,134,52,255);
+        width: 200px;
+        height: 200px;
+        border-radius: 50%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 2rem;
+      
+    }
+    .circle-config{
+        margin-left: 35%;
+        background-color: rgba(245,134,52,255);
+        width: 200px;
+        height: 200px;
+        border-radius: 50%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 2rem;
+    }
+    .title_especialista{
+        margin-left: 10rem;
+        font-size: 4vh;
+        color: rgba(61,69,72,255);
+    }
+    .title_config{
+        margin-left: 7rem;
+        font-size: 4vh;
+        color: rgba(61,69,72,255);
+    }
+    .text_fechaduras{
+        margin-left: 2rem;
+        font-size: 3vh;
+        margin-top: 2rem;
+        color: rgba(61,69,72,255);
+    }
+    #Configuração{
+        margin-top: 2rem;
+        height: 33rem;
+        width: 45rem;
+        margin-left: 14rem;
+        justify-content: center;
+        align-items: center;
+        border: 5px solid; 
+        border-radius: 15px;
+        color: rgba(245,134,52,255);
+        padding-left: 1rem;
+    }
+    .fa-gear{
+        font-size: 14vh;
+        color: rgba(61,69,72,255);
+    }
+    .fa-check{
+        font-size: 14vh;
+        color: rgba(61,69,72,255);
+    }
 }
 @media(min-width: 1024px) and (max-width: 1270px)  {
     header{
@@ -1036,11 +2421,113 @@
         margin-left: 3rem;
     }
     .title_comp{
-        margin-top: 10%;
+        margin-top: 25rem !important;
         width: 50rem; 
         font-size: 5vh;
        margin-left: 12rem;
 
+    }
+    .title_fechaduras{
+        margin-left: 2rem !important;
+        width: 70rem !important;
+        font-size: 5vh !important;
+    }
+    #container-fechaduras{
+        height: 290rem;
+        
+    }
+    #instalação_fechadura{
+        grid-template-columns: 1fr;
+        justify-content: center;
+        align-items: center;
+        height: 100%;
+        padding-left: 10%;
+    }
+       .title_fechaduras{
+        margin-left: 15rem;
+        font-size: 5vh;
+        color: rgba(61,69,72,255);
+    }
+    #Profissionais{
+        margin-top: 2rem;
+        height: 95vh;
+        width: 53rem;
+        margin-left: 2rem;
+        justify-content: center;
+        align-items: center;
+        border: 5px solid; 
+        border-radius: 15px;
+        color: rgba(245,134,52,255);
+        padding-left: 1rem;
+    }
+    .fa-hammer{
+        font-size: 10vh;
+        color: rgba(61,69,72,255);
+       
+    }
+    .circle{
+        margin-left: 30%;
+        background-color: rgba(245,134,52,255);
+        width: 300px;
+        height: 300px;
+        border-radius: 50%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 2rem;
+      
+    }
+    .circle-config{
+        margin-left: 30%;
+        background-color: rgba(245,134,52,255);
+        width: 300px;
+        height: 300px;
+        border-radius: 50%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 2rem;
+    }
+    .title_especialista{
+        margin-left: 10rem;
+        font-size: 4vh;
+        color: rgba(61,69,72,255);
+    }
+    .title_config{
+        margin-left: 7rem;
+        font-size: 4vh;
+        color: rgba(61,69,72,255);
+    }
+    .text_fechaduras{
+        margin-left: 2rem;
+        font-size: 3vh;
+        margin-top: 2rem;
+        color: rgba(61,69,72,255);
+    }
+    #Configuração{
+        margin-top: 2rem;
+        height: 95rem;
+        width: 53rem;
+        margin-left: 2rem;
+        justify-content: center;
+        align-items: center;
+        border: 5px solid; 
+        border-radius: 15px;
+        color: rgba(245,134,52,255);
+        padding-left: 1rem;
+    }
+    .fa-gear{
+        font-size: 10vh;
+        color: rgba(61,69,72,255);
+    }
+    .fa-check{
+        font-size: 10vh;
+        color: rgba(61,69,72,255);
+    }
+    .title_year{
+        margin-left: 7rem;
+        font-size: 4vh;
+        color: rgba(61,69,72,255);
     }
     #container-competencias{
         grid-template-columns: 1fr;
@@ -1208,9 +2695,110 @@
     }
     #second-banner{
         display: inline-block;
-        width: 70rem;
+        width: 80rem;
         height: 330rem;
         
+    }
+    #container-fechaduras{
+        width: 70rem;
+        height: 205rem;
+        
+    }
+    #instalação_fechadura{
+        grid-template-columns: 1fr;
+        justify-content: center;
+        align-items: center;
+        height: 100%;
+        margin-top: 2rem;
+        
+    }
+    
+  .title_fechaduras{
+        width: 67rem; 
+        font-size: 10vh !important;
+        margin-left: 2rem;
+        color: rgba(61,69,72,255);
+     }
+    #Profissionais{
+        margin-top: 10rem;
+        height: 60rem;
+        width: 65rem; 
+        margin-left: 1rem !important; 
+        justify-content: center;
+        align-items: center;
+        border: 5px solid; 
+        border-radius: 15px;
+        color: rgba(245,134,52,255);
+        padding-left: 1rem;
+    }
+    .fa-hammer{
+        font-size: 20vh;
+        color: rgba(61,69,72,255);
+       
+    }
+    .circle{
+        margin-left: 35%;
+        background-color: rgba(245,134,52,255);
+        width: 300px;
+        height: 300px;
+        border-radius: 50%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 2rem;
+      
+    }
+    .circle-config{
+        margin-left: 35%;
+        background-color: rgba(245,134,52,255);
+        width: 300px;
+        height: 300px;
+        border-radius: 50%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 2rem;
+    }
+    .title_especialista{
+        margin-left: 12rem;
+        font-size: 7vh;
+        color: rgba(61,69,72,255);
+    }
+    .title_config{
+        margin-left: 7rem;
+        font-size: 7vh;
+        color: rgba(61,69,72,255);
+    }
+    .text_fechaduras{
+        margin-left: 2rem;
+        font-size: 6vh;
+        margin-top: 2rem;
+        color: rgba(61,69,72,255);
+    }
+    #Configuração{
+        margin-top: 10rem;
+        height: 60rem;
+        width: 65rem;
+        margin-left: 2rem !important; 
+        justify-content: center;
+        align-items: center;
+        border: 5px solid; 
+        border-radius: 15px;
+        color: rgba(245,134,52,255);
+        padding-left: 1rem;
+    }
+    .fa-gear{
+        font-size: 20vh;
+        color: rgba(61,69,72,255);
+    }
+    .fa-check{
+        font-size: 20vh;
+        color: rgba(61,69,72,255);
+    }
+    .title_year{
+        margin-left: 7rem;
+        font-size: 7vh;
+        color: rgba(61,69,72,255);
     }
     #Chave_Simples{
         margin-top: 85px;
@@ -1279,12 +2867,7 @@
         font-size: 10vh;
        margin-left: 12rem;
 
-    }
-    #container-competencias{
-        grid-template-columns: 1fr;
-        margin-left: 1rem;
-        width: 53rem;
-       
+   
     }
     #fast-service{
         
@@ -1516,6 +3099,107 @@
        margin-left: 35rem;
 
     }
+    #container-fechaduras{
+        width: 70rem;
+        height: 240rem;
+        
+    }
+    #instalação_fechadura{
+        grid-template-columns: 1fr;
+        justify-content: center;
+        align-items: center;
+        height: 100%;
+        margin-top: 2rem;
+        
+    }
+    
+  .title_fechaduras{
+        width: 67rem; 
+        font-size: 10vh;
+        margin-left: 2rem;
+        color: rgba(61,69,72,255);
+     }
+    #Profissionais{
+        margin-top: 10rem;
+        height: 60rem;
+        width: 65rem; 
+        margin-left: 3rem; 
+        justify-content: center;
+        align-items: center;
+        border: 5px solid; 
+        border-radius: 15px;
+        color: rgba(245,134,52,255);
+        padding-left: 1rem;
+    }
+    .fa-hammer{
+        font-size: 20vh;
+        color: rgba(61,69,72,255);
+       
+    }
+    .circle{
+        margin-left: 35%;
+        background-color: rgba(245,134,52,255);
+        width: 300px;
+        height: 300px;
+        border-radius: 50%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 2rem;
+      
+    }
+    .circle-config{
+        margin-left: 35%;
+        background-color: rgba(245,134,52,255);
+        width: 300px;
+        height: 300px;
+        border-radius: 50%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 2rem;
+    }
+    .title_especialista{
+        margin-left: 12rem;
+        font-size: 7vh;
+        color: rgba(61,69,72,255);
+    }
+    .title_config{
+        margin-left: 7rem;
+        font-size: 7vh;
+        color: rgba(61,69,72,255);
+    }
+    .text_fechaduras{
+        margin-left: 2rem;
+        font-size: 6vh;
+        margin-top: 2rem;
+        color: rgba(61,69,72,255);
+    }
+    #Configuração{
+        margin-top: 10rem;
+        height: 60rem;
+        width: 65rem;
+        margin-left: 3rem; 
+        justify-content: center;
+        align-items: center;
+        border: 5px solid; 
+        border-radius: 15px;
+        color: rgba(245,134,52,255);
+        padding-left: 1rem;
+    }
+    .fa-gear{
+        font-size: 20vh;
+        color: rgba(61,69,72,255);
+    }
+    .fa-check{
+        font-size: 20vh;
+        color: rgba(61,69,72,255);
+    }
+    .title_year{
+        margin-left: 7rem;
+        font-size: 7vh;
+        color: rgba(61,69,72,255);
+    }
     #container-competencias{
         display: grid;
         grid-template-columns: 1fr 1fr;
@@ -1642,6 +3326,113 @@
         font-size: 3vh;
     }
 
+}
+@media(min-width:1280px) and (max-width:1290px){
+    #container-fechaduras{
+        height: 230rem;
+    }
+    .title_fechaduras{
+        width: 100rem !important;
+        font-size: 8vh !important;
+    }
+    #instalação_fechadura{
+        grid-template-columns: 1fr;
+        justify-content: center;
+        align-items: center;
+        height: 100%;
+        padding-left: 10%;
+    }
+       .title_fechaduras{
+        margin-left: 15rem;
+        font-size: 5vh;
+        color: rgba(61,69,72,255);
+    }
+    #Profissionais{
+        margin-top: 2rem;
+        width: 80rem !important;
+       height: 70rem !important;
+        margin-left: 14rem;
+        justify-content: center;
+        align-items: center;
+        border: 5px solid; 
+        border-radius: 15px;
+        color: rgba(245,134,52,255);
+        padding-left: 1rem;
+    }
+    .fa-hammer{
+        font-size: 20vh;
+        color: rgba(61,69,72,255);
+       
+    }
+    .circle{
+        margin-left: 35%;
+        background-color: rgba(245,134,52,255);
+        width: 400px;
+        height: 400px;
+        border-radius: 50%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 2rem;
+      
+    }
+    .circle-config{
+        margin-left: 35%;
+        background-color: rgba(245,134,52,255);
+        width: 400px;
+        height: 400px;
+        border-radius: 50%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 2rem;
+    }
+    .title_especialista{
+        margin-left: 10rem;
+        font-size: 8vh;
+        color: rgba(61,69,72,255);
+    }
+    .title_config{
+        margin-left: 5rem;
+        font-size: 8vh;
+        color: rgba(61,69,72,255);
+    }
+    .text_fechaduras{
+        margin-left: 2rem;
+        font-size: 5vh;
+        margin-top: 2rem;
+        color: rgba(61,69,72,255);
+    }
+    #Configuração{
+        margin-top: 2rem;
+        height: 70rem;
+        width: 80rem;
+        margin-left: 14rem;
+        justify-content: center;
+        align-items: center;
+        border: 5px solid; 
+        border-radius: 15px;
+        color: rgba(245,134,52,255);
+        padding-left: 1rem;
+    }
+    .fa-gear{
+        font-size: 20vh;
+        color: rgba(61,69,72,255);
+    }
+    .fa-check{
+        font-size: 20vh;
+        color: rgba(61,69,72,255);
+    }
+    .title_social-media{
+        margin-top: 10rem ;
+          font-size: 10vh ;
+          width: 150vh ;
+          margin-left: 2rem;
+        
+     }
+     .fa-instagram{
+        font-size: 20vh;
+     }
 }
 @media(min-width:1301px){
     header{
@@ -1801,7 +3592,107 @@
        margin-top: 2rem;
        
    }
-   .title_comp{
+   .title_fechaduras{
+   
+    font-size: 5vh !important;
+   }
+   #container-fechaduras{
+    height: 110rem;
+}
+#instalação_fechadura{
+    grid-template-columns: 1fr;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    padding-left: 10%;
+}
+   .title_fechaduras{
+    margin-left: 15rem;
+    font-size: 5vh;
+    color: rgba(61,69,72,255);
+}
+#Profissionais{
+    margin-top: 2rem;
+    height: 33rem;
+    width: 45rem;
+    margin-left: 17rem !important;
+    justify-content: center;
+    align-items: center;
+    border: 5px solid; 
+    border-radius: 15px;
+    color: rgba(245,134,52,255);
+    padding-left: 1rem;
+}
+.fa-hammer{
+    font-size: 14vh;
+    color: rgba(61,69,72,255);
+   
+}
+.circle{
+    margin-left: 35%;
+    background-color: rgba(245,134,52,255);
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2rem;
+  
+}
+.circle-config{
+    margin-left: 35%;
+    background-color: rgba(245,134,52,255);
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2rem;
+}
+.title_especialista{
+    margin-left: 10rem;
+    font-size: 4vh;
+    color: rgba(61,69,72,255);
+}
+.title_config{
+    margin-left: 7rem;
+    font-size: 4vh;
+    color: rgba(61,69,72,255);
+}
+.text_fechaduras{
+    margin-left: 2rem;
+    font-size: 3vh;
+    margin-top: 2rem;
+    color: rgba(61,69,72,255);
+}
+#Configuração{
+    margin-top: 2rem;
+    height: 33rem;
+    width: 45rem;
+    margin-left: 17rem !important;
+    justify-content: center;
+    align-items: center;
+    border: 5px solid; 
+    border-radius: 15px;
+    color: rgba(245,134,52,255);
+    padding-left: 1rem;
+}
+.fa-gear{
+    font-size: 14vh;
+    color: rgba(61,69,72,255);
+}
+.fa-check{
+    font-size: 14vh;
+    color: rgba(61,69,72,255);
+}
+.title_year{
+    margin-left: 7rem;
+    font-size: 4vh;
+    color: rgba(61,69,72,255);
+}
+ .title_comp{
        margin-left: 30rem;
        font-size: 6vh;
        color: rgba(61,69,72,255);
@@ -1945,6 +3836,17 @@
        font-size: 5vh;
        font-weight: bolder;
    }
+   .title_social-media{
+    margin-top: 2rem ;
+      font-size: 5vh ;
+      width: 150vh ;
+      margin-left: 2rem;
+    
+ }
+ .fa-instagram{
+    font-size: 13vh;
+    margin-left: 2rem;
+ }
    
    /* Estilo geral do footer */
    footer {
