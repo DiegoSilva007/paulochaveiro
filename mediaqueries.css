@@ -1,23 +1,23 @@
-@media(min-width:100px){
+@media(min-width:100px) and (max-width: 299px){
     header{
        display: flex;
-        width: 90rem !important;
-        
-        background-color: #fefefe;
+        width: 100rem !important;
+       background-color: #fefefe;
     }
     #logo img{
-        width: 35rem !important;
+        width: 40rem !important;
       
     }
     #botão_de_ação{
-        width: 53vh !important;
-        height: 10vh !important;
+        width: 35rem !important;
+        height: 6rem!important;
+        
     }
     #botão_de_ação a{
-        font-size: 7vh !important;
+        font-size: 10vh !important;
     }
     .fa-whatsapp{
-        font-size: 7vh !important;
+        font-size: 12vh !important;
     }
     #second-banner{
         display: inline-block;
@@ -25,9 +25,31 @@
         height: auto;
        
     }
-    
+    #banner{
+        grid-template-columns: 1fr;
+        width: 60rem;
+        height: 300vh !important;
+
+    }
     .title_banner{
-        font-size: 20px !important;
+        font-size: 40px !important;
+    }
+    /* Estilo geral do footer */
+    footer {
+        margin-top: 5rem;
+        width: 100% ;
+        
+    }
+    
+    /* Container do footer */
+    .footer-container {
+        display: relative !important;
+    }
+    .direitos{
+        font-size: 4vh;
+    }
+    #icon-banner img{
+        width: 25rem !important;
     }
 
 
@@ -129,7 +151,7 @@
 
     }
     #container-fechaduras{
-       border: 2px solid red;
+     
        height: auto ;
         
     }
