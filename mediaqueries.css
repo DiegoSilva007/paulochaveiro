@@ -1209,8 +1209,7 @@
     #Configuração{
         margin-top: 10rem;
         height: auto !important;
-        width: 65rem;
-        
+        width: 65rem; 
         justify-content: center;
         align-items: center;
         border: 5px solid; 
@@ -1256,6 +1255,15 @@
     .direitos{
         font-size: 4vh;
     }
+}
+@media (min-height: 700px){
+    
+    #container-fechaduras{
+        width: 30rem;
+        height: 280rem !important;
+        
+    }
+    
 }
 @media (width:360px) {
     header{
@@ -1362,8 +1370,7 @@
     #Configuração{
         margin-top: 10rem;
         height: auto !important;
-        width: 65rem;
-        
+        width: 65rem;   
         justify-content: center;
         align-items: center;
         border: 5px solid; 
@@ -1515,8 +1522,7 @@
     #Configuração{
         margin-top: 10rem;
         height: auto !important;
-        width: 65rem;
-        margin-left: 3rem; 
+        width: 65rem;   
         justify-content: center;
         align-items: center;
         border: 5px solid; 
@@ -1673,7 +1679,7 @@
     }
    
     #container-fechaduras{
-        height: 570rem;
+        height: 600rem;
         width: 190rem !important;
     }
     #instalação_fechadura{
@@ -2372,6 +2378,8 @@
         color: rgba(61,69,72,255);
     }
 }
+
+
 @media(min-width: 1024px) and (max-width: 1270px)  {
     header{
         width: 69rem;
