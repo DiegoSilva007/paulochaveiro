@@ -152,7 +152,7 @@
     }
     #container-fechaduras{
      
-       height: auto ;
+       height: 220rem !important;
         
     }
     #instalação_fechadura{
@@ -175,7 +175,6 @@
         margin-top: 10rem;
         height: auto;
         width: 65rem; 
-        margin-left: 3rem; 
         justify-content: center;
         align-items: center;
         border: 5px solid; 
@@ -231,7 +230,6 @@
         margin-top: 10rem;
         height: auto;
         width: 65rem;
-        margin-left: 3rem; 
         justify-content: center;
         align-items: center;
         border: 5px solid; 
@@ -389,7 +387,7 @@
         
         height: auto !important;
         width: 60rem !important; 
-        margin-left: 1rem !important; 
+       
         justify-content: center;
         align-items: center;
         border: 5px solid; 
@@ -446,7 +444,7 @@
         margin-top: 10rem;
         height: auto !important;
         width: 60rem !important; 
-        margin-left: 1rem !important; 
+       
         justify-content: center;
         align-items: center;
         border: 5px solid; 
@@ -587,7 +585,7 @@
         
         height: auto !important;
         width: 100rem !important; 
-        margin-left: 3rem; 
+       
         justify-content: center;
         align-items: center;
         border: 5px solid; 
@@ -643,7 +641,7 @@
         margin-top: 10rem;
         height: auto !important;
         width: 100rem !important; 
-        margin-left: 3rem; 
+         
         justify-content: center;
         align-items: center;
         border: 5px solid; 
@@ -864,7 +862,7 @@
         margin-top: 10rem;
         height: auto !important;
         width: 67rem !important; 
-        margin-left: 3rem; 
+        
         justify-content: center;
         align-items: center;
         border: 5px solid; 
@@ -920,7 +918,7 @@
         margin-top: 10rem;
         height: auto !important;
         width: 67rem !important;
-        margin-left: 3rem; 
+        
         justify-content: center;
         align-items: center;
         border: 5px solid; 
@@ -1156,7 +1154,7 @@
         margin-top: 10rem;
         height: auto !important;
         width: 65rem; 
-        margin-left: 3rem; 
+       
         justify-content: center;
         align-items: center;
         border: 5px solid; 
@@ -1212,7 +1210,7 @@
         margin-top: 10rem;
         height: auto !important;
         width: 65rem;
-        margin-left: 3rem; 
+        
         justify-content: center;
         align-items: center;
         border: 5px solid; 
@@ -1309,7 +1307,7 @@
         margin-top: 10rem;
         height: auto !important;
         width: 65rem; 
-        margin-left: 3rem; 
+        
         justify-content: center;
         align-items: center;
         border: 5px solid; 
@@ -1365,7 +1363,7 @@
         margin-top: 10rem;
         height: auto !important;
         width: 65rem;
-        margin-left: 3rem; 
+        
         justify-content: center;
         align-items: center;
         border: 5px solid; 
@@ -1462,7 +1460,7 @@
         margin-top: 10rem;
         height: auto;
         width: 65rem; 
-        margin-left: 3rem; 
+        
         justify-content: center;
         align-items: center;
         border: 5px solid; 
@@ -2062,7 +2060,7 @@
         margin-top: 2rem;
         height: auto !important;
         width: 45rem;
-        margin-left: 1rem !important;
+       
         justify-content: center;
         align-items: center;
         border: 5px solid; 
@@ -2118,7 +2116,7 @@
         margin-top: 2rem;
         height: auto !important;   
         width: 45rem;
-        margin-left: 1rem !important;
+       
         justify-content: center;
         align-items: center;
         border: 5px solid; 
@@ -2301,7 +2299,7 @@
         margin-top: 2rem;
         height: auto;
         width: 45rem;
-        margin-left: 14rem;
+      
         justify-content: center;
         align-items: center;
         border: 5px solid; 
@@ -2357,7 +2355,7 @@
         margin-top: 2rem;
         height: auto;
         width: 45rem;   
-        margin-left: 14rem;
+       
         justify-content: center;
         align-items: center;
         border: 5px solid; 
