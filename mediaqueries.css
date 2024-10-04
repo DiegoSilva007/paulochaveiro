@@ -3805,6 +3805,7 @@
        font-size: 6vh;
        color: rgba(61,69,72,255);
        margin-top: 50vh !important;
+       border: 2px solid red;
        
    }
    #container-competencias{
