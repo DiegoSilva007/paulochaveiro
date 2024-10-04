@@ -3993,5 +3993,6 @@
  @media(min-width:1366px){
     #container-fechaduras{
         height: 70rem !important;
+        border: 2px solid red;
     }
  }
