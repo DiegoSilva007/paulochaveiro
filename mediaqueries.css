@@ -3705,6 +3705,7 @@
    }
    #container-fechaduras{
     height: 70rem !important;
+    border: 2px solid blue !important;
 }
 #instalação_fechadura{
     grid-template-columns: 1fr;
