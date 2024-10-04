@@ -144,7 +144,7 @@
         margin-left: 3rem;
     }
     .title_comp{ 
-       
+       margin-top: 20rem !important;
         width: 50rem; 
         margin-left: 9rem;
         font-size: 10vh;
@@ -152,7 +152,7 @@
     }
     #container-fechaduras{
      
-       height: 220rem !important;
+       height: 400rem !important;
         
     }
     #instalação_fechadura{
@@ -181,6 +181,7 @@
         border-radius: 15px;
         color: rgba(245,134,52,255);
         padding-left: 1rem;
+        margin-left: 1rem !important;
     }
     .fa-hammer{
         font-size: 20vh;
@@ -211,12 +212,12 @@
         margin-top: 2rem;
     }
     .title_especialista{
-        margin-left: 12rem;
+        margin-left: 7rem !important;
         font-size: 7vh;
         color: rgba(61,69,72,255);
     }
     .title_config{
-        margin-left: 7rem;
+        margin-left: 3rem !important;
         font-size: 7vh;
         color: rgba(61,69,72,255);
     }
@@ -246,7 +247,7 @@
         color: rgba(61,69,72,255);
     }
     .title_year{
-        margin-left: 7rem;
+        margin-left: 2rem !important;
         font-size: 7vh;
         color: rgba(61,69,72,255);
     }
@@ -362,7 +363,7 @@
      }
     #container-fechaduras{
         width: 60rem !important;
-        height: 380rem !important;
+     
     
       
         
@@ -387,7 +388,7 @@
         
         height: auto !important;
         width: 60rem !important; 
-       
+        margin-left: 1rem !important;
         justify-content: center;
         align-items: center;
         border: 5px solid; 
@@ -444,7 +445,7 @@
         margin-top: 10rem;
         height: auto !important;
         width: 60rem !important; 
-       
+        margin-left: 1rem !important;
         justify-content: center;
         align-items: center;
         border: 5px solid; 
@@ -585,7 +586,7 @@
         
         height: auto !important;
         width: 100rem !important; 
-       
+        margin-left: 1rem !important;
         justify-content: center;
         align-items: center;
         border: 5px solid; 
@@ -641,7 +642,7 @@
         margin-top: 10rem;
         height: auto !important;
         width: 100rem !important; 
-         
+        margin-left: 1rem !important;
         justify-content: center;
         align-items: center;
         border: 5px solid; 
@@ -1154,7 +1155,7 @@
         margin-top: 10rem;
         height: auto !important;
         width: 65rem; 
-       
+        margin-left: 1rem !important;
         justify-content: center;
         align-items: center;
         border: 5px solid; 
@@ -1315,7 +1316,7 @@
         margin-top: 10rem;
         height: auto !important;
         width: 65rem; 
-        
+        margin-left: 1rem !important;
         justify-content: center;
         align-items: center;
         border: 5px solid; 
@@ -1377,6 +1378,7 @@
         border-radius: 15px;
         color: rgba(245,134,52,255);
         padding-left: 1rem;
+        margin-left: 1rem !important;
     }
     .fa-gear{
         font-size: 20vh;
@@ -1916,6 +1918,7 @@
 @media(width:540px){
     #Profissionais{
         height: auto !important;
+
     }
     #container-fechaduras{
         height: 320rem !important;
@@ -2720,26 +2723,25 @@
     }
 
 }
-@media(min-height:600px) and (max-height: 799px) {
+@media(min-height:600px) and (max-height: 739px) {
     header{
-        width: 69rem;
-       
+        width: 82rem;
     }
     #logo img{
-        width: 35rem;
+        width: 40rem;
       
     }
     .fa-whatsapp{
-        font-size: 8vh;
+        font-size: 10vh;
     }
     #botão_de_ação{
-        width: 25rem;
-        height: 6rem;
+        width: 30rem;
+        height: 8rem;
        
        
     }
     #botão_de_ação a{
-        font-size: 6vh;
+        font-size: 8vh;
     }
     #banner{
         grid-template-columns: 1fr;
@@ -2764,7 +2766,7 @@
     }
     #container-fechaduras{
         width: 70rem;
-        height: 205rem;
+        height: 210rem !important;
         
     }
     #instalação_fechadura{
@@ -2786,7 +2788,7 @@
         margin-top: 10rem;
         height: auto;
         width: 65rem; 
-        margin-left: 1rem !important; 
+        margin-left: 2rem !important; 
         justify-content: center;
         align-items: center;
         border: 5px solid; 
@@ -2823,12 +2825,12 @@
         margin-top: 2rem;
     }
     .title_especialista{
-        margin-left: 12rem;
+        margin-left: 7rem;
         font-size: 7vh;
         color: rgba(61,69,72,255);
     }
     .title_config{
-        margin-left: 7rem;
+        margin-left: 3rem;
         font-size: 7vh;
         color: rgba(61,69,72,255);
     }
@@ -2859,7 +2861,7 @@
         color: rgba(61,69,72,255);
     }
     .title_year{
-        margin-left: 7rem;
+        margin-left: 3rem;
         font-size: 7vh;
         color: rgba(61,69,72,255);
     }
@@ -3042,7 +3044,7 @@
     /* Estilo geral do footer */
     footer {
         margin-top: 2rem;
-        width: 70rem;
+        width: 80rem;
     }
     
     /* Container do footer */
@@ -3054,6 +3056,47 @@
     }
 
 }
+@media(min-height: 740px) and (max-height:799px){
+  header{
+  
+    width: 70rem;
+  }
+    #botão_de_ação{
+        width: 23rem;
+        height: 6rem;
+       
+       
+    }
+    #logo img{
+        width: 40rem;
+        
+    }
+    .fa-whatsapp{
+        font-size: 8vh;
+    }
+    #botão_de_ação a{
+        font-size: 6vh;
+    }
+    #second-banner{
+        width: 68rem;
+    }
+    .title_especialista{
+        margin-left: 8rem !important;
+    }
+    .title_year{
+        margin-left: 2rem !important;
+    }
+    .title_config{
+        margin-left: 2rem !important;
+    }
+    #container-fechaduras{
+     height: 230rem !important;
+    }
+    footer {
+        margin-top: 2rem;
+        width: 70rem;
+    }
+    }
 @media(min-width: 1271px) and (max-width: 1300px) {
     header{
         width: 120rem;
@@ -3156,7 +3199,7 @@
         margin-left: 3rem;
     }
     .title_comp{
-        margin-top: 10%;
+        margin-top: 2% !important;
         width: 50rem; 
         font-size: 10vh;
        margin-left: 35rem;
@@ -3392,7 +3435,8 @@
 }
 @media(min-width:1280px) and (max-width:1290px){
     #container-fechaduras{
-        height: 230rem;
+        height: 50rem !important;
+        
     }
     .title_fechaduras{
         width: 100rem !important;
@@ -3660,7 +3704,7 @@
     font-size: 5vh !important;
    }
    #container-fechaduras{
-    height: 110rem;
+    height: 97rem !important;
 }
 #instalação_fechadura{
     grid-template-columns: 1fr;

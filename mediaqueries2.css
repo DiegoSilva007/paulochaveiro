@@ -618,5 +618,74 @@
     }
 
 }
-
+@media(min-height: 800px) and (max-height:844px){
+.title_especialista{
+    margin-left: 10rem !important;
+}
+.title_year{
+    margin-left: 7rem !important;
+}
+.title_config{
+    margin-left: 5rem !important;
+}
+#container-fechaduras{
+ height: 270rem !important;
+}
+}
+@media(min-height: 845px) and (max-height:881px){
+    .title_especialista{
+        margin-left: 2rem !important;
+    }
+    .title_year{
+        margin-left: 2rem !important;
+    }
+    .title_config{
+        margin-left: 2rem !important;
+    }
+    #container-fechaduras{
+     height: 320rem !important;
+    }
+    }
+@media(min-height: 882px) and (max-height:899px){
+    .title_especialista{
+        margin-left: 2rem !important;
+    }
+    .title_year{
+        margin-left: 2rem !important;
+    }
+    .title_config{
+        margin-left: 2rem !important;
+    }
+    #container-fechaduras{
+     height: 320rem !important;
+    }
+    }
+@media(min-height: 900px) and (max-height:1023px){
+    .title_especialista{
+        margin-left: 2rem !important;
+    }
+    .title_year{
+        margin-left: 2rem !important;
+    }
+    .title_config{
+        margin-left: 2rem !important;
+    }
+    #container-fechaduras{
+     height: 320rem !important;
+    }
+    }
+@media(width:768px) and (min-height: 1024px){
+    .title_especialista{
+        margin-left: 2rem !important;
+    }
+    .title_year{
+        margin-left: 2rem !important;
+    }
+    .title_config{
+        margin-left: 2rem !important;
+    }
+    #container-fechaduras{
+     height: 500rem !important;
+    }
+}
  
