@@ -3704,8 +3704,8 @@
     font-size: 5vh !important;
    }
    #container-fechaduras{
-    height: 70rem !important;
-    border: 2px solid blue !important;
+    height: 100rem !important;
+   
 }
 #instalação_fechadura{
     grid-template-columns: 1fr;
