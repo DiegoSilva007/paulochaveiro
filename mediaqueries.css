@@ -3990,7 +3990,7 @@
    /* Adicione mais estilos conforme necessário */
    
  }
- @media(width:1366px) and (min-height: 768px){
+ @media(width:1366px){
     #container-fechaduras{
         height: 70rem !important;
         border: 2px solid red !important;
