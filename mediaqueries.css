@@ -3990,9 +3990,13 @@
    /* Adicione mais estilos conforme necessário */
    
  }
- @media(width:1366px){
+ @media(min-width:1366px) and (max-width: 1367px){
     #container-fechaduras{
         height: 70rem !important;
         border: 2px solid red !important;
+
+    }
+    .title_comp{
+        margin-top: 100rem;
     }
  }
